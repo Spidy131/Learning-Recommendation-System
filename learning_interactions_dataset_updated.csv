@@ -1,0 +1,1001 @@
+user_id,item_id,item_type,action,rating_score,time_spent_seconds,device,difficulty_level,tags,timestamp,course_category,course_level,course_topic
+U0142,I0128,assignment,skipped,,0,web,medium,Electronics,2025-11-13 13:45:16,Math,Basic,Algebra Fundamentals
+U0060,I0077,reading,skipped,,0,mobile,hard,Python,2025-07-08 06:55:41,Math,Basic,Number Systems and Arithmetic
+U0161,I0053,assignment,attempted,1.0,747,mobile,medium,Math,2025-09-04 10:58:06,Robotics,Basic,Introduction to Robotics
+U0064,I0123,reading,completed,1.0,737,web,easy,Robotics,2025-09-14 23:09:00,Math,Basic,Algebra Fundamentals
+U0161,I0141,reading,started,,275,mobile,easy,AI,2025-10-03 00:05:12,Math,Basic,Number Systems and Arithmetic
+U0105,I0066,reading,viewed,,1737,web,easy,Data Science,2025-05-28 16:50:42,Robotics,Basic,Introduction to Robotics
+U0143,I0033,quiz,skipped,,0,web,easy,Math,2025-08-09 16:52:36,AI,Basic,Introduction to AI Concepts
+U0067,I0114,assignment,attempted,5.0,1288,mobile,hard,Statistics,2025-06-13 01:19:58,Math,Basic,Algebra Fundamentals
+U0111,I0072,video,attempted,2.0,96,mobile,hard,AI,2025-03-23 11:48:30,Robotics,Intermediate,Kinematics and Dynamics
+U0133,I0011,reading,attempted,1.0,1383,web,easy,Robotics,2025-09-23 00:12:15,Statistics,Intermediate,Probability Distributions
+U0183,I0075,assignment,started,,1135,web,easy,Robotics,2025-02-17 09:20:01,Robotics,Intermediate,Control Systems
+U0016,I0053,video,completed,5.0,1996,mobile,medium,Data Science,2025-03-15 02:48:28,Robotics,Basic,Introduction to Robotics
+U0106,I0057,course,viewed,,1295,web,medium,Statistics,2025-10-08 04:17:10,Python,Basic,Control Flow and Loops
+U0167,I0086,assignment,completed,1.0,250,mobile,medium,Robotics,2025-04-11 01:50:31,Statistics,Intermediate,Probability Distributions
+U0046,I0053,video,completed,1.0,1633,mobile,hard,Python,2025-10-06 17:09:57,AI,Intermediate,Machine Learning Algorithms
+U0025,I0010,quiz,completed,5.0,1394,web,easy,AI,2025-12-09 12:39:54,Robotics,Intermediate,Kinematics and Dynamics
+U0087,I0146,reading,viewed,,709,web,hard,Electronics,2025-03-17 15:55:38,Statistics,Basic,Descriptive Statistics
+U0129,I0097,quiz,attempted,2.0,1764,web,medium,Math,2025-08-01 00:18:33,Math,Intermediate,Linear Algebra
+U0110,I0035,video,viewed,,140,mobile,hard,AI,2025-12-09 15:15:05,Electronics,Intermediate,Digital Electronics
+U0059,I0042,video,viewed,,361,web,hard,AI,2025-07-22 09:35:34,Python,Basic,Variables and Data Types
+U0142,I0110,assignment,started,,1498,mobile,easy,Robotics,2025-07-22 03:12:28,Robotics,Intermediate,Control Systems
+U0169,I0085,reading,started,,273,web,medium,Python,2025-03-18 20:08:46,Robotics,Intermediate,Kinematics and Dynamics
+U0125,I0134,reading,started,,935,web,medium,AI,2025-01-23 00:26:26,Statistics,Basic,Descriptive Statistics
+U0076,I0144,video,completed,4.0,1327,mobile,medium,Robotics,2025-06-09 09:28:15,Electronics,Intermediate,Digital Electronics
+U0004,I0013,reading,attempted,5.0,1182,mobile,easy,Electronics,2025-07-16 07:16:48,Electronics,Intermediate,Digital Electronics
+U0178,I0131,assignment,started,,1726,web,medium,Electronics,2025-06-07 23:59:08,Electronics,Intermediate,Microcontrollers and Programming
+U0083,I0072,reading,attempted,2.0,1122,web,hard,Robotics,2025-08-06 22:53:24,Python,Basic,Variables and Data Types
+U0003,I0076,quiz,started,,256,web,medium,Python,2025-04-16 23:01:47,Statistics,Basic,Descriptive Statistics
+U0024,I0033,reading,started,,1610,mobile,medium,Math,2025-10-14 11:06:13,Math,Basic,Algebra Fundamentals
+U0168,I0066,quiz,viewed,,1190,web,hard,Python,2025-07-22 14:58:39,Statistics,Intermediate,Probability Distributions
+U0199,I0066,reading,viewed,,428,web,hard,Robotics,2025-11-10 17:31:28,Electronics,Basic,Basic Circuit Components
+U0119,I0031,course,viewed,,930,mobile,easy,Python,2025-08-28 23:34:15,Math,Basic,Algebra Fundamentals
+U0031,I0096,assignment,viewed,,293,web,easy,Robotics,2025-07-06 19:45:24,Electronics,Intermediate,Microcontrollers and Programming
+U0048,I0122,quiz,completed,1.0,1054,mobile,easy,Statistics,2025-07-05 18:22:17,Python,Basic,Introduction to Python
+U0030,I0119,assignment,viewed,,604,mobile,easy,Math,2025-05-20 15:36:06,Statistics,Intermediate,Hypothesis Testing
+U0062,I0055,reading,completed,4.0,234,web,hard,Math,2025-05-09 13:23:14,AI,Intermediate,Neural Networks Basics
+U0111,I0076,quiz,started,,179,mobile,easy,Python,2025-12-12 04:33:32,Electronics,Intermediate,Microcontrollers and Programming
+U0103,I0133,reading,completed,4.0,475,mobile,easy,Python,2025-07-02 14:00:16,Python,Basic,Introduction to Python
+U0141,I0054,video,completed,5.0,1870,mobile,medium,Robotics,2025-03-21 08:11:54,Python,Basic,Control Flow and Loops
+U0025,I0038,quiz,started,,1135,mobile,medium,Statistics,2025-01-17 17:51:26,Python,Basic,Introduction to Python
+U0106,I0057,video,skipped,,0,web,medium,Python,2025-08-19 03:08:12,Robotics,Intermediate,Control Systems
+U0110,I0063,quiz,skipped,,0,mobile,easy,Data Science,2025-04-11 00:08:09,Robotics,Intermediate,Kinematics and Dynamics
+U0138,I0025,assignment,completed,2.0,255,web,medium,Python,2025-08-19 11:09:16,Robotics,Basic,Introduction to Robotics
+U0052,I0074,video,skipped,,0,mobile,easy,Python,2025-11-07 23:27:59,Electronics,Intermediate,Digital Electronics
+U0194,I0100,quiz,completed,4.0,1931,web,easy,Math,2025-11-22 02:28:15,Electronics,Intermediate,Digital Electronics
+U0182,I0008,assignment,completed,1.0,1573,mobile,easy,Robotics,2025-11-16 19:48:08,Robotics,Basic,Introduction to Robotics
+U0093,I0117,quiz,started,,1417,mobile,easy,Electronics,2025-12-09 12:05:46,AI,Intermediate,Machine Learning Algorithms
+U0173,I0096,course,viewed,,1275,web,medium,Data Science,2025-09-06 07:32:55,Python,Basic,Variables and Data Types
+U0029,I0131,assignment,viewed,,303,mobile,hard,Data Science,2025-10-13 01:22:24,Robotics,Intermediate,Kinematics and Dynamics
+U0153,I0080,quiz,started,,1223,mobile,medium,Math,2025-09-30 02:38:13,Electronics,Basic,Basic Circuit Components
+U0096,I0110,reading,viewed,,1058,mobile,easy,Data Science,2025-08-02 18:48:41,Statistics,Intermediate,Hypothesis Testing
+U0165,I0134,quiz,viewed,,742,mobile,hard,Electronics,2025-10-06 09:56:54,Robotics,Intermediate,Kinematics and Dynamics
+U0080,I0141,assignment,completed,1.0,1612,mobile,easy,AI,2025-06-18 22:36:06,AI,Basic,Introduction to AI Concepts
+U0025,I0077,quiz,viewed,,488,mobile,medium,Robotics,2025-07-18 11:54:54,Statistics,Intermediate,Probability Distributions
+U0042,I0051,assignment,viewed,,1040,web,hard,Robotics,2025-06-28 15:26:00,Math,Basic,Algebra Fundamentals
+U0066,I0049,quiz,attempted,1.0,272,web,hard,Data Science,2025-10-18 13:57:37,AI,Intermediate,Neural Networks Basics
+U0148,I0097,quiz,viewed,,1726,mobile,hard,Electronics,2025-03-24 23:27:36,Electronics,Intermediate,Microcontrollers and Programming
+U0015,I0002,reading,attempted,2.0,1560,web,easy,Robotics,2025-09-18 20:56:37,AI,Intermediate,Machine Learning Algorithms
+U0020,I0129,assignment,started,,1031,mobile,easy,Math,2025-10-15 09:08:53,Python,Basic,Variables and Data Types
+U0102,I0081,reading,attempted,4.0,1917,mobile,medium,Robotics,2025-02-03 13:58:56,Python,Basic,Variables and Data Types
+U0104,I0130,quiz,completed,2.0,1049,mobile,medium,Robotics,2025-02-26 15:23:08,AI,Intermediate,Neural Networks Basics
+U0015,I0051,video,viewed,,525,web,easy,Electronics,2025-11-23 02:33:27,Python,Basic,Variables and Data Types
+U0156,I0011,quiz,viewed,,1317,web,easy,Robotics,2025-05-30 14:22:17,Statistics,Basic,Descriptive Statistics
+U0170,I0037,course,completed,1.0,570,web,hard,Robotics,2025-10-25 20:20:38,Statistics,Intermediate,Hypothesis Testing
+U0095,I0060,reading,viewed,,1869,web,hard,Math,2025-07-19 12:39:52,Python,Basic,Variables and Data Types
+U0040,I0011,video,viewed,,331,mobile,easy,AI,2025-07-12 05:45:19,AI,Basic,Introduction to AI Concepts
+U0014,I0031,video,completed,5.0,697,mobile,medium,Data Science,2025-09-15 00:56:47,AI,Intermediate,Neural Networks Basics
+U0151,I0081,course,skipped,,0,mobile,medium,Data Science,2025-08-07 11:33:21,Electronics,Basic,Basic Circuit Components
+U0189,I0002,course,skipped,,0,mobile,easy,Statistics,2025-09-05 22:22:58,AI,Intermediate,Neural Networks Basics
+U0172,I0002,reading,skipped,,0,mobile,hard,Data Science,2025-07-07 14:22:48,Python,Basic,Introduction to Python
+U0098,I0024,course,attempted,4.0,1394,web,hard,Robotics,2025-07-10 15:56:52,Electronics,Basic,Basic Circuit Components
+U0132,I0120,reading,skipped,,0,web,medium,Electronics,2025-09-21 11:16:37,Robotics,Basic,Introduction to Robotics
+U0037,I0080,course,skipped,,0,web,easy,AI,2025-06-20 19:07:59,Python,Basic,Variables and Data Types
+U0081,I0150,video,completed,2.0,1688,web,easy,Electronics,2025-11-12 09:00:49,Statistics,Basic,Descriptive Statistics
+U0133,I0064,assignment,completed,1.0,507,mobile,hard,Robotics,2025-11-29 08:27:18,AI,Intermediate,Neural Networks Basics
+U0096,I0029,course,skipped,,0,mobile,hard,Electronics,2025-07-18 17:02:05,Electronics,Intermediate,Microcontrollers and Programming
+U0172,I0039,course,viewed,,961,mobile,hard,Electronics,2025-01-17 01:45:36,Python,Basic,Variables and Data Types
+U0094,I0060,reading,attempted,2.0,1308,mobile,hard,Statistics,2025-04-29 07:36:06,AI,Intermediate,Neural Networks Basics
+U0087,I0019,reading,started,,1911,mobile,medium,Data Science,2025-10-18 19:36:36,AI,Basic,Introduction to AI Concepts
+U0053,I0082,reading,viewed,,165,web,easy,Robotics,2025-03-15 00:37:55,Math,Basic,Number Systems and Arithmetic
+U0185,I0147,assignment,skipped,,0,mobile,easy,Data Science,2025-03-05 19:10:19,Python,Basic,Introduction to Python
+U0045,I0043,course,completed,2.0,1920,mobile,easy,Electronics,2025-10-11 09:04:55,Python,Basic,Control Flow and Loops
+U0166,I0065,reading,skipped,,0,mobile,easy,Python,2025-10-29 04:55:18,Robotics,Intermediate,Control Systems
+U0025,I0095,reading,viewed,,925,mobile,medium,AI,2025-11-09 07:05:40,Robotics,Intermediate,Kinematics and Dynamics
+U0158,I0058,quiz,skipped,,0,web,medium,Electronics,2025-10-24 21:54:35,AI,Intermediate,Machine Learning Algorithms
+U0152,I0055,quiz,completed,5.0,794,mobile,easy,AI,2025-08-13 07:19:55,Electronics,Basic,Basic Circuit Components
+U0197,I0130,quiz,skipped,,0,mobile,easy,Math,2025-07-14 19:01:18,AI,Basic,Introduction to AI Concepts
+U0135,I0032,reading,attempted,2.0,1579,web,hard,Python,2025-01-20 07:40:20,Python,Basic,Control Flow and Loops
+U0155,I0027,reading,attempted,3.0,593,mobile,hard,Python,2025-10-29 07:43:47,Statistics,Intermediate,Hypothesis Testing
+U0071,I0002,reading,viewed,,503,web,hard,Math,2025-02-14 12:35:03,Electronics,Intermediate,Microcontrollers and Programming
+U0107,I0030,video,skipped,,0,web,hard,Math,2025-03-26 02:15:26,Statistics,Intermediate,Hypothesis Testing
+U0160,I0058,video,skipped,,0,mobile,medium,Robotics,2025-03-11 15:10:44,Math,Intermediate,Linear Algebra
+U0100,I0016,assignment,skipped,,0,web,medium,Python,2025-02-24 15:11:43,Robotics,Intermediate,Kinematics and Dynamics
+U0195,I0085,assignment,skipped,,0,mobile,hard,AI,2025-02-21 01:58:13,Math,Basic,Algebra Fundamentals
+U0086,I0137,quiz,attempted,5.0,160,web,easy,Statistics,2025-06-08 14:57:52,Statistics,Intermediate,Hypothesis Testing
+U0042,I0094,video,completed,5.0,1961,mobile,medium,Math,2025-03-07 15:32:36,Robotics,Intermediate,Control Systems
+U0017,I0148,assignment,skipped,,0,mobile,medium,Robotics,2025-06-11 17:13:04,Math,Intermediate,Linear Algebra
+U0200,I0039,course,attempted,1.0,539,mobile,easy,Statistics,2025-03-14 11:31:03,Python,Basic,Control Flow and Loops
+U0163,I0150,quiz,started,,1623,mobile,easy,AI,2025-01-17 08:09:50,Robotics,Intermediate,Kinematics and Dynamics
+U0044,I0011,quiz,completed,3.0,1490,mobile,medium,Data Science,2025-01-22 19:47:32,Statistics,Intermediate,Hypothesis Testing
+U0046,I0061,reading,attempted,5.0,1170,mobile,medium,Electronics,2025-10-11 01:37:38,Math,Basic,Algebra Fundamentals
+U0106,I0137,course,viewed,,426,mobile,medium,Math,2025-05-29 08:03:04,Electronics,Intermediate,Digital Electronics
+U0039,I0104,assignment,completed,4.0,1651,web,hard,Electronics,2025-07-25 16:28:35,Robotics,Intermediate,Kinematics and Dynamics
+U0094,I0038,course,skipped,,0,mobile,hard,Statistics,2025-03-03 09:42:30,Python,Basic,Introduction to Python
+U0165,I0035,quiz,skipped,,0,mobile,easy,AI,2025-12-05 05:23:49,AI,Basic,Introduction to AI Concepts
+U0006,I0119,assignment,attempted,4.0,1951,mobile,easy,Electronics,2025-01-09 14:18:38,Math,Basic,Algebra Fundamentals
+U0049,I0078,reading,skipped,,0,web,hard,Python,2025-05-15 00:09:18,Python,Basic,Introduction to Python
+U0057,I0027,course,attempted,5.0,822,web,easy,Math,2025-04-20 18:46:21,Robotics,Basic,Introduction to Robotics
+U0059,I0063,quiz,completed,4.0,99,web,hard,AI,2025-03-03 18:37:05,Math,Basic,Number Systems and Arithmetic
+U0054,I0083,video,skipped,,0,web,easy,Robotics,2025-11-29 03:58:26,AI,Intermediate,Machine Learning Algorithms
+U0117,I0106,quiz,started,,1472,mobile,hard,AI,2025-04-06 03:16:17,AI,Basic,Introduction to AI Concepts
+U0057,I0115,assignment,skipped,,0,web,easy,Electronics,2025-06-01 22:16:14,Python,Basic,Control Flow and Loops
+U0112,I0070,video,viewed,,1302,web,easy,AI,2025-11-15 01:40:32,Robotics,Basic,Introduction to Robotics
+U0021,I0115,quiz,attempted,4.0,192,web,hard,AI,2025-05-12 19:18:59,Statistics,Intermediate,Hypothesis Testing
+U0141,I0123,quiz,attempted,2.0,1445,web,medium,Data Science,2025-05-06 13:10:19,Python,Basic,Introduction to Python
+U0061,I0015,reading,viewed,,453,web,easy,Data Science,2025-05-13 07:49:02,Python,Basic,Control Flow and Loops
+U0120,I0138,course,skipped,,0,web,hard,Robotics,2025-01-25 15:56:13,Robotics,Intermediate,Kinematics and Dynamics
+U0108,I0114,video,attempted,2.0,762,mobile,hard,Robotics,2025-03-27 20:10:52,Math,Intermediate,Linear Algebra
+U0013,I0076,quiz,skipped,,0,mobile,easy,AI,2025-07-20 15:33:17,Math,Basic,Algebra Fundamentals
+U0111,I0104,course,viewed,,1847,web,easy,AI,2025-02-07 18:07:17,Electronics,Intermediate,Digital Electronics
+U0009,I0134,course,viewed,,1511,mobile,easy,Statistics,2025-06-30 15:41:12,Python,Basic,Variables and Data Types
+U0104,I0019,assignment,completed,1.0,668,web,hard,Python,2025-10-14 08:46:17,Python,Basic,Variables and Data Types
+U0181,I0031,course,completed,1.0,745,mobile,hard,Python,2025-01-24 04:30:35,Python,Basic,Introduction to Python
+U0197,I0135,quiz,attempted,1.0,728,mobile,easy,Electronics,2025-04-21 22:59:40,Python,Basic,Variables and Data Types
+U0137,I0115,course,completed,4.0,1056,mobile,easy,Math,2025-11-17 00:14:58,Python,Basic,Variables and Data Types
+U0001,I0034,quiz,attempted,2.0,1944,web,hard,Statistics,2025-10-28 12:43:06,Robotics,Basic,Introduction to Robotics
+U0197,I0130,assignment,viewed,,1547,web,medium,Data Science,2025-07-02 08:13:55,Electronics,Intermediate,Microcontrollers and Programming
+U0112,I0129,reading,completed,3.0,1094,mobile,easy,Electronics,2025-08-30 11:48:03,Python,Basic,Variables and Data Types
+U0180,I0149,video,completed,1.0,556,web,medium,Electronics,2025-06-28 09:52:35,Robotics,Basic,Introduction to Robotics
+U0073,I0114,quiz,completed,4.0,780,mobile,hard,Electronics,2025-10-10 17:39:37,Math,Intermediate,Linear Algebra
+U0127,I0058,course,attempted,3.0,1256,web,hard,AI,2025-06-27 17:36:43,AI,Intermediate,Machine Learning Algorithms
+U0060,I0017,assignment,attempted,3.0,311,web,hard,AI,2025-10-10 02:04:18,Statistics,Intermediate,Hypothesis Testing
+U0126,I0002,quiz,attempted,2.0,1305,mobile,hard,Python,2025-01-22 18:41:57,Math,Basic,Algebra Fundamentals
+U0157,I0089,quiz,completed,5.0,1140,web,easy,Robotics,2025-09-04 16:32:18,Robotics,Basic,Introduction to Robotics
+U0165,I0135,video,skipped,,0,web,easy,Math,2025-03-19 06:57:52,Electronics,Intermediate,Digital Electronics
+U0005,I0119,course,viewed,,1812,web,hard,Electronics,2025-08-04 23:42:00,AI,Intermediate,Machine Learning Algorithms
+U0097,I0058,assignment,skipped,,0,mobile,hard,Data Science,2025-01-19 16:59:06,Statistics,Intermediate,Probability Distributions
+U0172,I0047,quiz,started,,1350,mobile,easy,Data Science,2025-12-11 05:40:23,Statistics,Intermediate,Hypothesis Testing
+U0181,I0148,video,skipped,,0,mobile,hard,Math,2025-12-02 02:03:35,Robotics,Intermediate,Control Systems
+U0001,I0062,assignment,completed,3.0,1084,web,medium,Python,2025-02-08 01:28:54,Statistics,Intermediate,Probability Distributions
+U0047,I0015,quiz,started,,1571,web,easy,Electronics,2025-09-24 21:05:50,Robotics,Basic,Introduction to Robotics
+U0056,I0071,reading,started,,1568,web,medium,Statistics,2025-06-28 23:55:44,Robotics,Intermediate,Control Systems
+U0001,I0114,video,skipped,,0,web,medium,Python,2025-11-29 01:23:42,Python,Basic,Control Flow and Loops
+U0081,I0076,course,completed,1.0,857,web,hard,Robotics,2025-01-29 13:21:22,Python,Basic,Control Flow and Loops
+U0126,I0084,reading,skipped,,0,web,hard,Electronics,2025-12-04 15:23:51,Python,Basic,Variables and Data Types
+U0133,I0006,video,viewed,,1650,web,hard,Statistics,2025-05-21 16:40:51,Robotics,Basic,Introduction to Robotics
+U0038,I0084,reading,attempted,2.0,1242,mobile,easy,Statistics,2025-04-16 00:04:38,AI,Basic,Introduction to AI Concepts
+U0022,I0047,course,started,,1373,mobile,hard,Data Science,2025-06-10 14:00:32,Electronics,Intermediate,Digital Electronics
+U0127,I0103,video,started,,1537,mobile,easy,Statistics,2025-05-02 11:51:27,AI,Basic,Introduction to AI Concepts
+U0035,I0145,video,started,,458,mobile,easy,Statistics,2025-01-15 07:52:28,Math,Basic,Algebra Fundamentals
+U0016,I0044,reading,started,,651,mobile,hard,Math,2025-01-27 19:54:55,Robotics,Basic,Introduction to Robotics
+U0066,I0125,video,skipped,,0,mobile,easy,AI,2025-02-20 18:22:43,Python,Basic,Introduction to Python
+U0086,I0026,course,attempted,3.0,1843,web,hard,AI,2025-06-14 07:14:06,Robotics,Intermediate,Control Systems
+U0026,I0046,reading,viewed,,155,web,hard,Robotics,2025-04-21 20:38:19,Python,Basic,Control Flow and Loops
+U0180,I0023,reading,skipped,,0,web,easy,Data Science,2025-08-12 20:12:32,AI,Basic,Introduction to AI Concepts
+U0031,I0005,quiz,attempted,4.0,189,mobile,medium,Data Science,2025-08-31 01:34:21,Python,Basic,Control Flow and Loops
+U0054,I0132,course,started,,941,web,easy,Math,2025-05-09 00:24:32,Python,Basic,Variables and Data Types
+U0174,I0059,course,started,,223,web,medium,Statistics,2025-05-23 00:41:05,AI,Basic,Introduction to AI Concepts
+U0039,I0038,assignment,skipped,,0,mobile,medium,Statistics,2025-11-19 09:33:25,Math,Basic,Number Systems and Arithmetic
+U0184,I0062,reading,attempted,4.0,658,web,medium,AI,2025-02-05 14:38:35,AI,Basic,Introduction to AI Concepts
+U0156,I0056,quiz,skipped,,0,mobile,easy,Statistics,2025-03-07 05:27:47,Statistics,Basic,Descriptive Statistics
+U0162,I0048,video,viewed,,1563,web,hard,Math,2025-09-26 21:20:21,Python,Basic,Control Flow and Loops
+U0056,I0012,quiz,skipped,,0,mobile,medium,Python,2025-04-07 06:00:51,AI,Intermediate,Neural Networks Basics
+U0004,I0084,video,viewed,,453,web,medium,AI,2025-04-28 16:38:18,Python,Basic,Introduction to Python
+U0094,I0027,video,attempted,5.0,1892,mobile,hard,Robotics,2025-07-07 08:22:08,Statistics,Intermediate,Probability Distributions
+U0085,I0007,course,completed,2.0,1185,web,easy,Robotics,2025-07-23 03:16:33,Statistics,Intermediate,Hypothesis Testing
+U0162,I0120,video,attempted,5.0,1520,mobile,hard,Electronics,2025-06-30 22:33:46,Electronics,Basic,Basic Circuit Components
+U0144,I0010,assignment,completed,1.0,1874,web,easy,Electronics,2025-06-07 13:20:34,Robotics,Basic,Introduction to Robotics
+U0014,I0039,video,attempted,4.0,800,web,medium,Electronics,2025-04-15 13:52:52,AI,Intermediate,Machine Learning Algorithms
+U0057,I0057,reading,skipped,,0,web,hard,Electronics,2025-07-02 01:33:01,Math,Basic,Algebra Fundamentals
+U0034,I0026,video,skipped,,0,web,easy,Data Science,2025-04-18 20:04:31,Python,Basic,Variables and Data Types
+U0158,I0010,quiz,skipped,,0,mobile,hard,AI,2025-02-06 23:09:17,Electronics,Basic,Basic Circuit Components
+U0163,I0008,reading,attempted,1.0,1563,mobile,medium,AI,2025-08-15 09:07:30,Python,Basic,Variables and Data Types
+U0185,I0124,quiz,viewed,,1540,web,medium,Python,2025-06-05 00:11:51,AI,Basic,Introduction to AI Concepts
+U0114,I0069,quiz,started,,731,web,hard,Python,2025-04-04 21:59:12,Statistics,Basic,Descriptive Statistics
+U0033,I0119,reading,skipped,,0,web,hard,AI,2025-10-21 04:26:10,Math,Basic,Number Systems and Arithmetic
+U0121,I0004,quiz,viewed,,1656,mobile,hard,Python,2025-06-22 11:48:43,Electronics,Intermediate,Microcontrollers and Programming
+U0025,I0030,quiz,skipped,,0,mobile,hard,AI,2025-09-08 06:08:33,Robotics,Intermediate,Kinematics and Dynamics
+U0154,I0103,quiz,viewed,,1402,mobile,medium,Data Science,2025-02-04 18:49:14,AI,Intermediate,Machine Learning Algorithms
+U0137,I0133,reading,started,,1475,web,medium,Electronics,2025-11-13 08:02:09,Math,Basic,Number Systems and Arithmetic
+U0041,I0111,assignment,attempted,3.0,613,mobile,easy,Math,2025-05-17 09:33:45,Math,Basic,Number Systems and Arithmetic
+U0135,I0012,quiz,attempted,3.0,120,web,easy,Python,2025-01-27 04:39:19,AI,Intermediate,Neural Networks Basics
+U0076,I0080,video,skipped,,0,web,easy,Robotics,2025-11-05 18:26:42,Electronics,Intermediate,Microcontrollers and Programming
+U0148,I0028,quiz,completed,1.0,1336,mobile,easy,Math,2025-11-10 02:39:53,Electronics,Basic,Basic Circuit Components
+U0075,I0110,reading,started,,413,web,medium,AI,2025-03-25 10:21:02,Python,Basic,Introduction to Python
+U0156,I0093,quiz,skipped,,0,mobile,easy,Data Science,2025-02-05 14:32:32,Statistics,Intermediate,Probability Distributions
+U0068,I0139,course,attempted,4.0,498,web,easy,Math,2025-01-12 19:22:58,Robotics,Basic,Introduction to Robotics
+U0074,I0093,video,completed,4.0,1646,mobile,hard,Electronics,2025-12-09 23:59:49,Electronics,Basic,Basic Circuit Components
+U0140,I0053,quiz,started,,1790,web,medium,Statistics,2025-09-10 16:21:39,Statistics,Intermediate,Hypothesis Testing
+U0024,I0009,assignment,completed,3.0,158,mobile,medium,AI,2025-02-04 20:55:43,Statistics,Intermediate,Hypothesis Testing
+U0199,I0008,video,completed,3.0,68,web,easy,Robotics,2025-07-20 22:43:36,Python,Basic,Introduction to Python
+U0020,I0013,course,started,,1428,web,easy,Statistics,2025-04-27 20:56:59,Robotics,Basic,Introduction to Robotics
+U0165,I0064,course,completed,5.0,1991,web,medium,AI,2025-09-27 18:52:39,Python,Basic,Control Flow and Loops
+U0073,I0058,reading,attempted,2.0,494,mobile,medium,Python,2025-01-03 09:13:02,Electronics,Intermediate,Microcontrollers and Programming
+U0019,I0039,course,skipped,,0,mobile,easy,Electronics,2025-06-23 21:49:57,AI,Intermediate,Machine Learning Algorithms
+U0049,I0098,assignment,viewed,,1080,mobile,easy,Python,2025-12-12 23:57:14,Math,Basic,Algebra Fundamentals
+U0057,I0051,course,completed,3.0,1434,mobile,hard,Python,2025-06-11 04:53:03,Robotics,Intermediate,Control Systems
+U0071,I0122,assignment,skipped,,0,mobile,easy,AI,2025-02-16 00:50:21,Robotics,Intermediate,Kinematics and Dynamics
+U0144,I0026,reading,viewed,,972,web,hard,Robotics,2025-08-01 12:35:38,Statistics,Intermediate,Probability Distributions
+U0006,I0147,assignment,attempted,1.0,751,mobile,hard,Statistics,2025-02-10 17:20:55,Python,Basic,Variables and Data Types
+U0175,I0091,video,completed,4.0,497,mobile,hard,Robotics,2025-07-27 23:15:35,Statistics,Intermediate,Probability Distributions
+U0089,I0039,course,viewed,,434,web,hard,Robotics,2025-01-23 18:19:28,Statistics,Intermediate,Hypothesis Testing
+U0065,I0128,quiz,skipped,,0,mobile,easy,AI,2025-01-14 12:25:17,Electronics,Intermediate,Microcontrollers and Programming
+U0133,I0088,quiz,attempted,1.0,460,web,medium,Math,2025-06-23 22:39:34,Robotics,Intermediate,Control Systems
+U0068,I0040,quiz,attempted,5.0,526,mobile,hard,AI,2025-09-12 15:15:10,Robotics,Intermediate,Control Systems
+U0142,I0030,video,completed,2.0,1426,mobile,hard,Math,2025-01-29 18:49:38,Statistics,Intermediate,Hypothesis Testing
+U0152,I0080,course,completed,5.0,1273,mobile,hard,Robotics,2025-07-17 01:09:20,Python,Basic,Control Flow and Loops
+U0095,I0149,video,viewed,,1205,web,easy,AI,2025-11-07 12:49:47,Electronics,Basic,Basic Circuit Components
+U0017,I0013,video,viewed,,174,web,hard,Math,2025-09-21 10:52:20,Statistics,Intermediate,Probability Distributions
+U0106,I0131,course,completed,5.0,1075,web,easy,Electronics,2025-06-17 12:55:00,Python,Basic,Control Flow and Loops
+U0068,I0092,reading,viewed,,1320,mobile,medium,Robotics,2025-07-06 18:40:35,Python,Basic,Introduction to Python
+U0129,I0030,video,started,,1665,mobile,hard,Python,2025-01-25 09:00:19,AI,Intermediate,Neural Networks Basics
+U0044,I0132,quiz,started,,1017,web,hard,AI,2025-03-07 16:02:07,Math,Basic,Number Systems and Arithmetic
+U0036,I0058,quiz,skipped,,0,web,easy,Math,2025-07-12 09:53:21,AI,Intermediate,Neural Networks Basics
+U0158,I0085,course,viewed,,1558,web,hard,Data Science,2025-04-23 02:27:03,Robotics,Intermediate,Kinematics and Dynamics
+U0106,I0117,assignment,started,,758,web,hard,Python,2025-01-21 09:33:13,Robotics,Intermediate,Control Systems
+U0161,I0144,reading,skipped,,0,mobile,medium,Robotics,2025-08-08 09:00:17,Robotics,Intermediate,Control Systems
+U0146,I0112,reading,started,,1388,mobile,hard,Python,2025-03-03 11:06:03,Python,Basic,Variables and Data Types
+U0030,I0001,reading,started,,1446,web,hard,AI,2025-04-21 19:18:26,Statistics,Intermediate,Hypothesis Testing
+U0037,I0038,video,attempted,5.0,829,mobile,medium,Data Science,2025-10-31 22:47:58,Python,Basic,Introduction to Python
+U0194,I0133,assignment,started,,1594,web,medium,Data Science,2025-03-01 01:21:35,AI,Intermediate,Machine Learning Algorithms
+U0041,I0121,quiz,completed,1.0,1133,web,medium,AI,2025-04-08 19:32:40,AI,Intermediate,Machine Learning Algorithms
+U0121,I0028,course,completed,2.0,857,web,easy,Python,2025-02-28 00:12:58,Math,Intermediate,Linear Algebra
+U0195,I0014,quiz,attempted,4.0,1905,web,medium,AI,2025-05-10 10:26:37,Statistics,Basic,Descriptive Statistics
+U0200,I0013,assignment,completed,1.0,1956,mobile,easy,Statistics,2025-05-03 20:58:33,Electronics,Basic,Basic Circuit Components
+U0155,I0038,video,started,,1622,web,hard,Statistics,2025-12-12 10:59:47,AI,Intermediate,Neural Networks Basics
+U0075,I0113,quiz,viewed,,1001,mobile,easy,AI,2025-02-20 02:24:21,Python,Basic,Control Flow and Loops
+U0186,I0044,course,started,,774,web,medium,Statistics,2025-05-04 05:40:04,Math,Intermediate,Linear Algebra
+U0090,I0089,assignment,attempted,2.0,304,mobile,medium,Electronics,2025-03-14 11:52:34,Python,Basic,Variables and Data Types
+U0077,I0036,quiz,started,,1964,web,hard,Math,2025-03-15 02:04:44,Math,Basic,Number Systems and Arithmetic
+U0120,I0079,course,completed,1.0,1719,web,easy,Python,2025-11-07 01:14:40,Electronics,Intermediate,Microcontrollers and Programming
+U0029,I0089,reading,attempted,3.0,805,web,hard,Python,2025-03-28 02:36:14,Math,Intermediate,Linear Algebra
+U0093,I0082,video,attempted,3.0,1466,web,medium,Python,2025-02-13 00:24:08,Math,Basic,Algebra Fundamentals
+U0009,I0080,reading,skipped,,0,mobile,medium,Statistics,2025-07-26 08:00:47,Statistics,Basic,Descriptive Statistics
+U0179,I0074,assignment,started,,95,mobile,hard,Python,2025-09-18 19:26:49,AI,Basic,Introduction to AI Concepts
+U0041,I0082,course,started,,1838,mobile,medium,Electronics,2025-09-27 01:55:38,Robotics,Intermediate,Control Systems
+U0196,I0126,quiz,started,,1904,web,hard,Electronics,2025-02-27 17:42:37,Electronics,Intermediate,Digital Electronics
+U0057,I0115,video,started,,1015,mobile,easy,Robotics,2025-12-02 16:34:13,Math,Basic,Number Systems and Arithmetic
+U0168,I0115,reading,started,,29,mobile,medium,Data Science,2025-04-14 16:03:50,AI,Intermediate,Machine Learning Algorithms
+U0110,I0094,course,viewed,,1728,web,hard,Data Science,2025-08-17 19:35:03,Math,Intermediate,Linear Algebra
+U0137,I0100,reading,attempted,5.0,408,web,easy,Python,2025-05-28 22:01:13,Python,Basic,Introduction to Python
+U0024,I0060,video,started,,97,web,easy,Data Science,2025-11-16 15:54:42,Statistics,Intermediate,Probability Distributions
+U0171,I0142,quiz,started,,1377,web,medium,Electronics,2025-01-20 15:15:03,Electronics,Basic,Basic Circuit Components
+U0090,I0056,video,skipped,,0,mobile,hard,Electronics,2025-01-08 01:13:55,Python,Basic,Control Flow and Loops
+U0048,I0082,reading,completed,2.0,208,mobile,easy,Python,2025-03-18 22:12:31,AI,Intermediate,Neural Networks Basics
+U0131,I0034,quiz,started,,826,web,medium,Data Science,2025-05-23 03:12:36,Python,Basic,Variables and Data Types
+U0010,I0013,quiz,completed,5.0,608,mobile,easy,AI,2025-09-18 02:42:55,AI,Intermediate,Neural Networks Basics
+U0125,I0102,course,skipped,,0,web,easy,AI,2025-05-12 10:44:29,AI,Basic,Introduction to AI Concepts
+U0102,I0142,video,viewed,,1650,web,easy,Statistics,2025-03-14 23:51:15,Robotics,Intermediate,Control Systems
+U0175,I0054,quiz,started,,88,mobile,hard,Electronics,2025-08-14 12:34:43,Robotics,Basic,Introduction to Robotics
+U0172,I0073,assignment,skipped,,0,mobile,medium,Python,2025-02-01 13:50:28,Electronics,Intermediate,Microcontrollers and Programming
+U0005,I0101,course,skipped,,0,mobile,medium,Python,2025-09-24 12:22:39,Robotics,Intermediate,Control Systems
+U0106,I0108,course,attempted,2.0,1587,mobile,hard,Math,2025-09-30 12:43:14,Robotics,Basic,Introduction to Robotics
+U0148,I0088,video,skipped,,0,mobile,hard,AI,2025-02-20 18:01:42,Python,Basic,Introduction to Python
+U0167,I0114,reading,viewed,,1723,web,medium,Math,2025-04-03 16:24:01,Statistics,Intermediate,Probability Distributions
+U0150,I0015,course,viewed,,1471,mobile,medium,Robotics,2025-07-15 13:13:21,Statistics,Intermediate,Probability Distributions
+U0097,I0124,assignment,viewed,,558,web,easy,Electronics,2025-06-25 08:00:16,Math,Basic,Number Systems and Arithmetic
+U0157,I0061,video,viewed,,1551,mobile,medium,Data Science,2025-11-03 09:26:27,Robotics,Intermediate,Control Systems
+U0025,I0022,video,attempted,3.0,1438,web,easy,Statistics,2025-02-26 06:03:21,Electronics,Intermediate,Digital Electronics
+U0087,I0117,video,completed,5.0,1890,mobile,easy,Math,2025-05-26 22:48:56,Robotics,Intermediate,Kinematics and Dynamics
+U0077,I0021,reading,started,,1793,web,hard,Electronics,2025-07-18 04:13:39,Robotics,Intermediate,Control Systems
+U0074,I0121,video,viewed,,1509,mobile,medium,Math,2025-10-16 07:01:44,Electronics,Basic,Basic Circuit Components
+U0005,I0114,reading,started,,947,web,hard,Robotics,2025-07-15 23:29:44,Robotics,Intermediate,Control Systems
+U0078,I0112,assignment,skipped,,0,mobile,medium,Data Science,2025-01-30 16:27:22,AI,Intermediate,Machine Learning Algorithms
+U0145,I0095,quiz,attempted,5.0,1893,mobile,easy,Math,2025-02-16 13:15:04,Python,Basic,Control Flow and Loops
+U0162,I0071,video,viewed,,1910,mobile,hard,Statistics,2025-09-02 05:02:14,Statistics,Intermediate,Probability Distributions
+U0018,I0038,quiz,viewed,,756,web,hard,Electronics,2025-02-18 01:21:21,AI,Basic,Introduction to AI Concepts
+U0150,I0060,course,skipped,,0,web,medium,Python,2025-05-05 17:54:48,Python,Basic,Variables and Data Types
+U0171,I0013,quiz,viewed,,504,mobile,easy,Math,2025-05-18 22:29:38,Statistics,Basic,Descriptive Statistics
+U0077,I0120,assignment,viewed,,1784,web,easy,AI,2025-09-23 00:00:03,Statistics,Intermediate,Hypothesis Testing
+U0192,I0138,reading,skipped,,0,web,hard,Robotics,2025-12-12 22:51:00,Math,Basic,Number Systems and Arithmetic
+U0159,I0099,course,viewed,,860,mobile,easy,Statistics,2025-10-09 04:07:31,Robotics,Intermediate,Control Systems
+U0176,I0036,video,viewed,,274,mobile,medium,Data Science,2025-07-23 09:05:26,Robotics,Intermediate,Control Systems
+U0178,I0036,quiz,skipped,,0,web,hard,Robotics,2025-03-06 01:36:27,Statistics,Intermediate,Probability Distributions
+U0099,I0021,course,started,,248,web,easy,Robotics,2025-07-04 08:53:41,AI,Intermediate,Neural Networks Basics
+U0184,I0052,assignment,viewed,,87,mobile,hard,Statistics,2025-06-15 15:12:46,Robotics,Basic,Introduction to Robotics
+U0063,I0043,assignment,viewed,,1311,web,hard,AI,2025-06-20 11:18:05,AI,Basic,Introduction to AI Concepts
+U0020,I0088,reading,skipped,,0,web,hard,AI,2025-06-04 20:03:30,Statistics,Intermediate,Hypothesis Testing
+U0036,I0048,assignment,skipped,,0,web,hard,Math,2025-01-14 05:53:26,Electronics,Basic,Basic Circuit Components
+U0126,I0011,assignment,attempted,4.0,1353,mobile,easy,Python,2025-01-21 18:29:04,Robotics,Basic,Introduction to Robotics
+U0161,I0143,course,started,,1465,web,easy,Data Science,2025-02-05 09:21:00,Electronics,Intermediate,Microcontrollers and Programming
+U0132,I0039,quiz,attempted,4.0,1073,web,medium,Math,2025-11-21 14:03:04,Python,Basic,Control Flow and Loops
+U0035,I0141,quiz,started,,1727,web,hard,Statistics,2025-06-06 04:12:56,Math,Basic,Number Systems and Arithmetic
+U0193,I0124,quiz,viewed,,1572,web,hard,Robotics,2025-01-21 16:55:43,Statistics,Basic,Descriptive Statistics
+U0187,I0034,assignment,viewed,,500,mobile,hard,Python,2025-07-03 00:36:16,Robotics,Intermediate,Control Systems
+U0180,I0121,assignment,viewed,,66,mobile,easy,Statistics,2025-09-07 01:59:23,Statistics,Intermediate,Probability Distributions
+U0121,I0008,quiz,skipped,,0,web,easy,Statistics,2025-04-25 16:52:23,Statistics,Intermediate,Hypothesis Testing
+U0138,I0002,video,started,,377,web,easy,Statistics,2025-04-03 18:45:59,Statistics,Basic,Descriptive Statistics
+U0133,I0108,reading,started,,922,web,hard,AI,2025-03-16 04:16:18,Statistics,Intermediate,Probability Distributions
+U0114,I0119,video,viewed,,1721,web,easy,Robotics,2025-02-14 16:52:28,Electronics,Intermediate,Digital Electronics
+U0029,I0008,quiz,completed,5.0,1409,mobile,medium,Math,2025-10-27 03:27:18,Electronics,Intermediate,Microcontrollers and Programming
+U0013,I0113,course,started,,1214,web,hard,Math,2025-04-04 18:12:33,Statistics,Intermediate,Probability Distributions
+U0109,I0100,quiz,started,,1117,web,hard,Python,2025-07-21 17:36:05,Robotics,Intermediate,Control Systems
+U0146,I0083,reading,completed,1.0,662,mobile,medium,Python,2025-03-08 03:59:28,Robotics,Intermediate,Kinematics and Dynamics
+U0041,I0060,course,skipped,,0,mobile,hard,Robotics,2025-05-23 21:33:39,Electronics,Intermediate,Microcontrollers and Programming
+U0042,I0017,quiz,skipped,,0,web,easy,Statistics,2025-06-21 12:44:59,Statistics,Intermediate,Hypothesis Testing
+U0199,I0023,reading,completed,1.0,1260,web,medium,Python,2025-04-19 21:00:08,Python,Basic,Control Flow and Loops
+U0147,I0011,course,completed,3.0,551,web,easy,Python,2025-01-24 07:34:49,Python,Basic,Control Flow and Loops
+U0042,I0052,quiz,attempted,3.0,598,mobile,hard,Statistics,2025-05-17 00:26:56,Robotics,Intermediate,Kinematics and Dynamics
+U0070,I0149,reading,viewed,,350,mobile,medium,Electronics,2025-10-10 13:43:31,AI,Intermediate,Machine Learning Algorithms
+U0045,I0095,assignment,completed,4.0,831,mobile,easy,Robotics,2025-11-29 10:10:41,Python,Basic,Introduction to Python
+U0176,I0022,assignment,completed,3.0,514,mobile,hard,Python,2025-09-16 15:28:15,Robotics,Basic,Introduction to Robotics
+U0030,I0087,video,attempted,4.0,124,web,easy,Statistics,2025-03-24 21:16:01,Electronics,Intermediate,Digital Electronics
+U0032,I0004,reading,attempted,1.0,479,mobile,medium,Electronics,2025-05-29 15:28:43,Math,Basic,Number Systems and Arithmetic
+U0142,I0111,reading,skipped,,0,web,easy,Python,2025-09-01 02:26:33,Electronics,Intermediate,Microcontrollers and Programming
+U0029,I0018,quiz,skipped,,0,web,medium,Math,2025-09-08 14:11:39,Math,Basic,Number Systems and Arithmetic
+U0187,I0095,video,started,,1211,web,hard,Python,2025-01-23 05:56:13,Python,Basic,Control Flow and Loops
+U0055,I0082,course,attempted,4.0,351,mobile,hard,Robotics,2025-07-23 13:09:01,Python,Basic,Introduction to Python
+U0076,I0053,reading,viewed,,1426,web,hard,Math,2025-08-13 08:51:16,Python,Basic,Control Flow and Loops
+U0064,I0079,quiz,skipped,,0,web,medium,Statistics,2025-04-28 07:10:05,Python,Basic,Variables and Data Types
+U0112,I0055,quiz,attempted,1.0,363,mobile,hard,Statistics,2025-08-20 14:49:05,Robotics,Basic,Introduction to Robotics
+U0157,I0139,assignment,started,,750,mobile,hard,Statistics,2025-07-22 14:35:48,Math,Basic,Number Systems and Arithmetic
+U0058,I0112,reading,viewed,,1419,web,easy,Electronics,2025-01-13 10:48:28,Electronics,Basic,Basic Circuit Components
+U0177,I0028,quiz,started,,1827,mobile,easy,Statistics,2025-03-21 17:41:02,Robotics,Basic,Introduction to Robotics
+U0131,I0134,course,skipped,,0,mobile,easy,AI,2025-10-25 01:29:32,Math,Intermediate,Linear Algebra
+U0061,I0033,quiz,completed,5.0,1470,web,hard,Math,2025-08-21 16:08:43,AI,Intermediate,Machine Learning Algorithms
+U0017,I0040,quiz,viewed,,1714,mobile,medium,Electronics,2025-01-30 10:07:05,Electronics,Basic,Basic Circuit Components
+U0163,I0065,quiz,viewed,,621,mobile,easy,Data Science,2025-02-21 21:44:07,Math,Intermediate,Linear Algebra
+U0061,I0076,course,skipped,,0,web,medium,Math,2025-07-02 04:46:22,Electronics,Basic,Basic Circuit Components
+U0105,I0041,reading,viewed,,797,mobile,medium,Robotics,2025-04-28 15:47:21,Math,Basic,Algebra Fundamentals
+U0097,I0097,course,completed,4.0,80,mobile,hard,Statistics,2025-11-01 00:02:32,Math,Basic,Algebra Fundamentals
+U0130,I0095,assignment,viewed,,444,mobile,easy,AI,2025-04-06 07:57:53,Python,Basic,Introduction to Python
+U0183,I0057,assignment,started,,1678,mobile,hard,Math,2025-10-24 04:38:26,AI,Intermediate,Machine Learning Algorithms
+U0171,I0105,reading,started,,848,web,hard,Math,2025-11-03 01:29:33,Robotics,Intermediate,Kinematics and Dynamics
+U0104,I0027,quiz,completed,5.0,359,mobile,hard,Electronics,2025-01-21 04:52:08,Electronics,Intermediate,Microcontrollers and Programming
+U0168,I0113,course,skipped,,0,mobile,medium,Data Science,2025-02-25 04:49:28,Python,Basic,Introduction to Python
+U0061,I0096,course,completed,2.0,1133,web,easy,Python,2025-03-11 23:32:15,AI,Basic,Introduction to AI Concepts
+U0003,I0006,course,skipped,,0,web,easy,Statistics,2025-06-11 07:40:29,Math,Basic,Number Systems and Arithmetic
+U0044,I0059,quiz,viewed,,974,mobile,medium,Statistics,2025-05-23 19:42:30,Statistics,Basic,Descriptive Statistics
+U0096,I0010,course,skipped,,0,web,easy,Robotics,2025-12-07 05:00:50,Electronics,Basic,Basic Circuit Components
+U0182,I0025,course,viewed,,1466,mobile,hard,Electronics,2025-02-22 12:29:50,Math,Basic,Algebra Fundamentals
+U0085,I0051,assignment,completed,2.0,756,web,hard,AI,2025-11-02 09:51:43,Math,Basic,Algebra Fundamentals
+U0187,I0133,quiz,completed,5.0,1400,mobile,medium,Statistics,2025-09-30 04:18:37,Python,Basic,Control Flow and Loops
+U0171,I0145,assignment,completed,5.0,193,mobile,easy,Statistics,2025-09-08 13:27:52,Statistics,Basic,Descriptive Statistics
+U0057,I0065,reading,completed,5.0,1598,web,hard,Python,2025-04-07 03:04:12,Python,Basic,Variables and Data Types
+U0112,I0020,video,viewed,,1697,mobile,hard,Data Science,2025-03-16 01:15:07,Statistics,Basic,Descriptive Statistics
+U0135,I0014,assignment,completed,1.0,299,web,hard,Statistics,2025-05-12 16:25:43,Robotics,Intermediate,Kinematics and Dynamics
+U0166,I0037,video,skipped,,0,mobile,medium,Electronics,2025-09-24 20:26:58,Math,Basic,Algebra Fundamentals
+U0052,I0011,course,started,,1652,mobile,hard,Data Science,2025-12-03 22:13:31,Statistics,Intermediate,Hypothesis Testing
+U0016,I0025,quiz,attempted,1.0,64,web,medium,Math,2025-05-19 16:12:12,Statistics,Intermediate,Hypothesis Testing
+U0178,I0124,video,skipped,,0,mobile,hard,AI,2025-10-06 09:12:06,Python,Basic,Introduction to Python
+U0068,I0106,assignment,completed,1.0,1320,mobile,medium,AI,2025-09-27 08:57:20,Electronics,Intermediate,Microcontrollers and Programming
+U0057,I0094,quiz,started,,215,mobile,hard,Statistics,2025-11-07 10:17:32,AI,Basic,Introduction to AI Concepts
+U0195,I0141,quiz,started,,1507,mobile,hard,Math,2025-02-11 10:40:12,Robotics,Basic,Introduction to Robotics
+U0106,I0116,course,completed,5.0,926,mobile,medium,Robotics,2025-07-23 04:40:36,Electronics,Intermediate,Digital Electronics
+U0187,I0027,video,skipped,,0,web,medium,Data Science,2025-11-10 05:34:57,Robotics,Intermediate,Control Systems
+U0051,I0104,course,attempted,2.0,1124,mobile,medium,Robotics,2025-04-28 10:52:59,Python,Basic,Control Flow and Loops
+U0115,I0065,course,attempted,5.0,710,mobile,medium,AI,2025-01-07 07:03:32,Robotics,Basic,Introduction to Robotics
+U0134,I0066,assignment,skipped,,0,mobile,hard,Python,2025-08-16 20:55:53,Electronics,Intermediate,Digital Electronics
+U0019,I0015,quiz,skipped,,0,mobile,easy,Data Science,2025-10-07 17:44:23,Math,Intermediate,Linear Algebra
+U0186,I0079,video,skipped,,0,web,easy,Statistics,2025-11-23 02:12:22,Robotics,Intermediate,Kinematics and Dynamics
+U0179,I0082,assignment,viewed,,931,web,easy,Python,2025-09-09 04:12:19,AI,Intermediate,Neural Networks Basics
+U0174,I0108,reading,started,,323,mobile,easy,Math,2025-03-15 09:58:30,Python,Basic,Introduction to Python
+U0026,I0007,video,attempted,3.0,1592,web,easy,Electronics,2025-02-05 13:16:20,Python,Basic,Introduction to Python
+U0184,I0134,assignment,started,,1630,mobile,hard,Electronics,2025-04-20 20:27:51,Statistics,Intermediate,Hypothesis Testing
+U0105,I0138,course,completed,4.0,157,web,medium,Statistics,2025-03-05 23:12:53,Electronics,Intermediate,Microcontrollers and Programming
+U0144,I0106,reading,viewed,,1039,mobile,easy,Statistics,2025-03-27 10:27:28,Python,Basic,Control Flow and Loops
+U0085,I0100,reading,attempted,3.0,158,web,medium,Electronics,2025-06-06 21:42:12,Robotics,Basic,Introduction to Robotics
+U0106,I0075,quiz,attempted,4.0,645,mobile,easy,Robotics,2025-02-26 07:44:10,Math,Basic,Number Systems and Arithmetic
+U0160,I0061,course,skipped,,0,mobile,hard,Python,2025-02-05 08:46:03,AI,Basic,Introduction to AI Concepts
+U0005,I0133,course,skipped,,0,web,medium,Data Science,2025-04-07 10:01:55,Electronics,Intermediate,Microcontrollers and Programming
+U0162,I0104,assignment,completed,4.0,243,mobile,medium,Python,2025-03-13 22:24:09,Electronics,Intermediate,Digital Electronics
+U0132,I0127,course,started,,650,mobile,hard,AI,2025-11-15 20:25:05,Electronics,Intermediate,Digital Electronics
+U0131,I0132,quiz,completed,2.0,1272,web,hard,Data Science,2025-11-01 18:59:52,AI,Intermediate,Neural Networks Basics
+U0198,I0068,assignment,skipped,,0,mobile,medium,Electronics,2025-11-10 03:35:59,AI,Intermediate,Neural Networks Basics
+U0047,I0117,course,viewed,,298,web,medium,Robotics,2025-12-04 20:58:37,Robotics,Intermediate,Kinematics and Dynamics
+U0132,I0062,video,started,,145,web,medium,Statistics,2025-05-18 06:36:35,Statistics,Intermediate,Hypothesis Testing
+U0047,I0138,reading,started,,1614,mobile,easy,Python,2025-02-04 01:32:52,Statistics,Intermediate,Hypothesis Testing
+U0092,I0078,reading,started,,579,web,easy,Statistics,2025-06-02 01:54:30,Statistics,Intermediate,Probability Distributions
+U0186,I0091,assignment,viewed,,396,mobile,easy,Math,2025-03-15 12:16:56,AI,Basic,Introduction to AI Concepts
+U0187,I0044,quiz,completed,4.0,817,web,medium,Data Science,2025-05-30 06:28:13,Electronics,Basic,Basic Circuit Components
+U0094,I0076,assignment,started,,1915,web,hard,AI,2025-09-24 06:02:11,Python,Basic,Control Flow and Loops
+U0144,I0133,reading,completed,2.0,311,mobile,medium,Statistics,2025-01-03 00:04:18,Statistics,Basic,Descriptive Statistics
+U0077,I0125,video,started,,176,mobile,medium,AI,2025-02-04 12:12:23,Math,Intermediate,Linear Algebra
+U0086,I0055,video,attempted,1.0,355,mobile,medium,Python,2025-10-23 18:42:01,Math,Basic,Algebra Fundamentals
+U0011,I0106,reading,started,,1034,web,medium,Math,2025-04-08 07:20:57,Electronics,Basic,Basic Circuit Components
+U0062,I0019,video,attempted,3.0,1057,mobile,medium,Math,2025-03-16 21:34:11,Robotics,Basic,Introduction to Robotics
+U0133,I0027,quiz,completed,2.0,1737,web,medium,AI,2025-08-27 06:19:59,Electronics,Basic,Basic Circuit Components
+U0074,I0037,assignment,completed,3.0,263,web,medium,Robotics,2025-01-22 22:07:17,Robotics,Basic,Introduction to Robotics
+U0092,I0037,course,skipped,,0,mobile,medium,Data Science,2025-04-11 16:52:04,Statistics,Intermediate,Probability Distributions
+U0077,I0120,reading,started,,27,mobile,easy,Math,2025-12-05 19:19:16,Statistics,Intermediate,Hypothesis Testing
+U0173,I0099,video,skipped,,0,mobile,easy,Statistics,2025-01-19 04:29:01,Math,Intermediate,Linear Algebra
+U0157,I0140,assignment,attempted,2.0,685,web,hard,Robotics,2025-11-16 22:15:47,Electronics,Intermediate,Microcontrollers and Programming
+U0054,I0050,course,completed,3.0,748,mobile,easy,AI,2025-08-25 22:44:58,Statistics,Basic,Descriptive Statistics
+U0186,I0056,video,viewed,,193,web,easy,Math,2025-06-22 08:14:37,Robotics,Intermediate,Kinematics and Dynamics
+U0145,I0107,quiz,viewed,,456,web,hard,Robotics,2025-07-10 15:56:09,Electronics,Intermediate,Microcontrollers and Programming
+U0006,I0136,video,attempted,2.0,277,web,easy,Electronics,2025-01-22 02:32:00,Math,Basic,Algebra Fundamentals
+U0023,I0016,quiz,attempted,4.0,408,mobile,easy,Math,2025-09-26 16:25:29,Python,Basic,Introduction to Python
+U0015,I0139,assignment,skipped,,0,mobile,medium,Statistics,2025-08-19 00:06:48,AI,Intermediate,Neural Networks Basics
+U0160,I0110,quiz,started,,1366,mobile,medium,Data Science,2025-02-03 03:00:29,Python,Basic,Introduction to Python
+U0167,I0051,course,viewed,,648,web,easy,Python,2025-04-27 22:51:18,Math,Basic,Algebra Fundamentals
+U0004,I0145,reading,viewed,,1381,mobile,medium,Python,2025-09-23 04:27:14,Python,Basic,Introduction to Python
+U0020,I0109,assignment,viewed,,1482,web,easy,AI,2025-04-03 14:24:42,Statistics,Intermediate,Probability Distributions
+U0170,I0130,course,started,,1914,mobile,easy,Electronics,2025-03-02 09:22:52,AI,Basic,Introduction to AI Concepts
+U0161,I0029,quiz,completed,2.0,116,mobile,medium,AI,2025-06-04 04:24:45,Electronics,Basic,Basic Circuit Components
+U0105,I0057,video,viewed,,852,web,easy,Data Science,2025-07-15 23:53:29,AI,Intermediate,Machine Learning Algorithms
+U0090,I0061,video,viewed,,848,web,hard,Statistics,2025-01-04 05:54:41,Electronics,Basic,Basic Circuit Components
+U0008,I0088,quiz,started,,1574,web,easy,AI,2025-07-31 08:45:11,Robotics,Basic,Introduction to Robotics
+U0186,I0030,video,viewed,,148,web,easy,AI,2025-07-31 14:19:22,AI,Intermediate,Machine Learning Algorithms
+U0008,I0106,reading,skipped,,0,web,hard,Electronics,2025-07-28 02:25:22,Robotics,Basic,Introduction to Robotics
+U0027,I0127,assignment,viewed,,299,mobile,easy,Data Science,2025-10-24 20:29:20,AI,Intermediate,Neural Networks Basics
+U0158,I0042,course,completed,4.0,1740,mobile,medium,Electronics,2025-06-05 09:26:22,Statistics,Intermediate,Probability Distributions
+U0054,I0115,course,completed,2.0,1642,mobile,easy,Math,2025-10-25 17:37:23,Python,Basic,Introduction to Python
+U0192,I0101,course,viewed,,481,mobile,medium,Math,2025-05-28 17:41:26,Robotics,Intermediate,Kinematics and Dynamics
+U0109,I0085,assignment,viewed,,818,web,medium,Electronics,2025-02-02 08:55:24,Statistics,Intermediate,Probability Distributions
+U0111,I0018,video,attempted,2.0,1721,web,medium,Math,2025-08-29 02:14:21,Math,Basic,Number Systems and Arithmetic
+U0040,I0026,reading,viewed,,1956,mobile,easy,Electronics,2025-01-16 07:01:32,Electronics,Basic,Basic Circuit Components
+U0029,I0085,course,attempted,5.0,1145,web,easy,Python,2025-11-29 11:46:48,Robotics,Intermediate,Control Systems
+U0198,I0003,assignment,attempted,2.0,967,mobile,hard,Robotics,2025-04-10 23:15:22,Python,Basic,Introduction to Python
+U0103,I0095,assignment,completed,2.0,410,mobile,hard,Data Science,2025-03-18 10:37:19,Robotics,Basic,Introduction to Robotics
+U0038,I0078,quiz,completed,4.0,345,mobile,easy,Python,2025-10-14 03:21:31,Robotics,Intermediate,Control Systems
+U0122,I0022,video,started,,897,mobile,hard,Python,2025-01-18 03:58:19,AI,Intermediate,Machine Learning Algorithms
+U0116,I0005,assignment,viewed,,1436,web,medium,Robotics,2025-08-20 03:37:55,AI,Intermediate,Machine Learning Algorithms
+U0121,I0096,course,skipped,,0,web,easy,Statistics,2025-10-27 00:08:39,Robotics,Intermediate,Control Systems
+U0048,I0130,course,skipped,,0,mobile,easy,Python,2025-09-25 06:15:41,Math,Intermediate,Linear Algebra
+U0002,I0126,course,skipped,,0,mobile,hard,Electronics,2025-08-30 12:49:04,Robotics,Intermediate,Control Systems
+U0097,I0082,reading,completed,4.0,1459,web,medium,Robotics,2025-10-02 11:51:41,AI,Intermediate,Machine Learning Algorithms
+U0075,I0098,reading,started,,48,mobile,easy,Robotics,2025-08-08 03:17:18,Electronics,Basic,Basic Circuit Components
+U0133,I0131,assignment,viewed,,1487,web,easy,Python,2025-01-03 03:40:18,Statistics,Intermediate,Hypothesis Testing
+U0086,I0081,video,started,,357,mobile,easy,Robotics,2025-12-12 00:50:05,Math,Basic,Algebra Fundamentals
+U0135,I0139,assignment,completed,5.0,1889,mobile,medium,Math,2025-12-02 03:51:18,Electronics,Intermediate,Microcontrollers and Programming
+U0005,I0026,reading,skipped,,0,mobile,hard,Math,2025-10-27 17:21:15,Python,Basic,Introduction to Python
+U0110,I0106,assignment,started,,749,mobile,hard,Data Science,2025-07-22 15:10:19,AI,Basic,Introduction to AI Concepts
+U0113,I0042,quiz,viewed,,271,mobile,hard,Math,2025-01-28 03:10:15,AI,Intermediate,Neural Networks Basics
+U0158,I0003,quiz,completed,4.0,30,mobile,easy,Data Science,2025-12-08 07:05:37,Statistics,Basic,Descriptive Statistics
+U0148,I0075,assignment,viewed,,1279,web,easy,Python,2025-08-10 01:06:38,Electronics,Intermediate,Microcontrollers and Programming
+U0109,I0016,reading,attempted,1.0,421,mobile,medium,AI,2025-05-05 12:11:44,Python,Basic,Introduction to Python
+U0032,I0145,course,viewed,,1259,web,easy,Electronics,2025-03-07 03:03:22,Electronics,Intermediate,Digital Electronics
+U0016,I0096,course,completed,5.0,177,web,hard,Math,2025-02-21 16:22:44,Python,Basic,Introduction to Python
+U0123,I0133,assignment,skipped,,0,mobile,medium,Data Science,2025-11-12 15:25:32,Robotics,Basic,Introduction to Robotics
+U0067,I0082,reading,completed,2.0,1235,mobile,easy,Electronics,2025-08-22 10:24:16,Statistics,Intermediate,Probability Distributions
+U0106,I0056,quiz,attempted,1.0,1509,web,hard,Robotics,2025-03-16 23:33:46,Python,Basic,Introduction to Python
+U0062,I0067,quiz,completed,4.0,1669,mobile,easy,Statistics,2025-11-13 21:27:19,Statistics,Intermediate,Probability Distributions
+U0125,I0114,course,started,,908,mobile,hard,Robotics,2025-06-06 21:40:55,Electronics,Intermediate,Microcontrollers and Programming
+U0012,I0097,reading,completed,2.0,706,web,medium,Statistics,2025-08-07 17:30:48,Electronics,Intermediate,Digital Electronics
+U0004,I0080,assignment,skipped,,0,web,hard,Python,2025-09-15 05:07:17,Math,Basic,Algebra Fundamentals
+U0200,I0101,quiz,skipped,,0,mobile,easy,Data Science,2025-02-16 18:35:40,AI,Intermediate,Machine Learning Algorithms
+U0132,I0056,reading,started,,517,web,hard,AI,2025-02-04 20:49:03,Statistics,Basic,Descriptive Statistics
+U0073,I0118,video,attempted,4.0,964,mobile,medium,Electronics,2025-05-21 14:43:02,Robotics,Basic,Introduction to Robotics
+U0103,I0080,quiz,attempted,5.0,1072,web,medium,Math,2025-03-14 08:34:18,Electronics,Intermediate,Microcontrollers and Programming
+U0157,I0043,assignment,completed,3.0,127,mobile,easy,Math,2025-03-04 04:32:23,Robotics,Intermediate,Kinematics and Dynamics
+U0060,I0114,quiz,skipped,,0,web,hard,Python,2025-02-15 10:43:48,Python,Basic,Control Flow and Loops
+U0158,I0116,assignment,viewed,,1422,web,hard,Data Science,2025-06-18 18:27:01,Robotics,Intermediate,Kinematics and Dynamics
+U0154,I0121,quiz,viewed,,1711,web,medium,Robotics,2025-07-18 19:10:25,AI,Basic,Introduction to AI Concepts
+U0074,I0013,assignment,attempted,1.0,1595,web,medium,Robotics,2025-09-06 01:16:18,Math,Basic,Number Systems and Arithmetic
+U0010,I0067,quiz,attempted,2.0,1723,mobile,easy,Data Science,2025-06-17 07:24:51,Statistics,Intermediate,Hypothesis Testing
+U0106,I0115,assignment,viewed,,264,mobile,easy,AI,2025-01-11 16:17:22,Robotics,Basic,Introduction to Robotics
+U0171,I0019,video,viewed,,1893,mobile,hard,Robotics,2025-09-21 10:34:35,Statistics,Intermediate,Probability Distributions
+U0090,I0087,assignment,skipped,,0,web,medium,Python,2025-06-25 19:59:49,AI,Basic,Introduction to AI Concepts
+U0040,I0052,assignment,completed,5.0,1266,web,easy,Data Science,2025-10-13 05:20:43,Electronics,Intermediate,Microcontrollers and Programming
+U0087,I0112,assignment,viewed,,990,mobile,easy,Robotics,2025-02-11 13:40:32,Python,Basic,Variables and Data Types
+U0031,I0072,video,attempted,5.0,909,mobile,hard,Python,2025-07-19 12:00:47,AI,Intermediate,Machine Learning Algorithms
+U0003,I0076,reading,viewed,,1260,mobile,hard,Math,2025-08-22 13:42:42,Statistics,Basic,Descriptive Statistics
+U0169,I0113,reading,skipped,,0,web,medium,Data Science,2025-06-03 16:53:43,Statistics,Intermediate,Hypothesis Testing
+U0030,I0145,quiz,completed,1.0,1845,mobile,medium,Data Science,2025-01-22 16:03:58,AI,Intermediate,Neural Networks Basics
+U0160,I0092,course,attempted,3.0,30,mobile,hard,Statistics,2025-04-22 09:18:11,Python,Basic,Variables and Data Types
+U0069,I0009,video,started,,1592,mobile,hard,Data Science,2025-05-29 13:00:17,Python,Basic,Variables and Data Types
+U0051,I0028,reading,completed,3.0,1888,mobile,easy,AI,2025-01-26 03:55:37,Statistics,Basic,Descriptive Statistics
+U0106,I0057,video,started,,773,web,easy,Python,2025-02-18 18:09:51,Statistics,Intermediate,Hypothesis Testing
+U0023,I0094,video,attempted,5.0,1552,mobile,hard,Math,2025-01-10 06:54:37,Electronics,Basic,Basic Circuit Components
+U0082,I0077,assignment,skipped,,0,web,easy,Math,2025-09-09 11:06:44,Math,Basic,Algebra Fundamentals
+U0019,I0018,video,viewed,,713,mobile,medium,Math,2025-04-09 20:51:53,Statistics,Intermediate,Hypothesis Testing
+U0190,I0104,video,completed,3.0,110,mobile,hard,Robotics,2025-07-19 16:29:31,AI,Intermediate,Neural Networks Basics
+U0141,I0141,reading,skipped,,0,web,easy,Python,2025-12-09 01:16:47,Python,Basic,Control Flow and Loops
+U0134,I0149,quiz,skipped,,0,mobile,medium,AI,2025-04-26 23:05:53,Python,Basic,Introduction to Python
+U0004,I0069,video,viewed,,1884,mobile,hard,Robotics,2025-04-26 00:15:04,Electronics,Intermediate,Digital Electronics
+U0181,I0110,assignment,skipped,,0,mobile,hard,Statistics,2025-08-16 10:37:11,Electronics,Intermediate,Microcontrollers and Programming
+U0128,I0021,assignment,completed,4.0,88,web,hard,Data Science,2025-01-16 22:38:33,AI,Intermediate,Machine Learning Algorithms
+U0109,I0088,quiz,started,,102,mobile,easy,AI,2025-09-04 12:54:13,Electronics,Basic,Basic Circuit Components
+U0045,I0079,quiz,skipped,,0,web,hard,Math,2025-11-18 23:33:02,Robotics,Basic,Introduction to Robotics
+U0154,I0090,video,started,,419,mobile,medium,Python,2025-01-13 16:45:24,Python,Basic,Introduction to Python
+U0008,I0021,quiz,started,,1347,web,medium,Robotics,2025-05-24 16:44:53,Electronics,Basic,Basic Circuit Components
+U0089,I0102,assignment,attempted,3.0,279,web,easy,Electronics,2025-08-28 18:42:15,Math,Basic,Number Systems and Arithmetic
+U0096,I0089,course,viewed,,1964,mobile,easy,Robotics,2025-01-28 02:33:02,AI,Basic,Introduction to AI Concepts
+U0186,I0016,course,attempted,2.0,1038,mobile,hard,AI,2025-12-05 22:57:57,Robotics,Basic,Introduction to Robotics
+U0134,I0117,course,viewed,,470,web,easy,AI,2025-09-20 09:41:09,Python,Basic,Variables and Data Types
+U0094,I0028,video,viewed,,1011,mobile,medium,Data Science,2025-04-10 23:27:33,AI,Basic,Introduction to AI Concepts
+U0123,I0128,quiz,started,,1705,mobile,hard,Electronics,2025-09-17 04:35:55,Robotics,Basic,Introduction to Robotics
+U0187,I0015,video,started,,1040,web,easy,Data Science,2025-01-06 13:44:30,Robotics,Basic,Introduction to Robotics
+U0113,I0121,video,attempted,5.0,305,mobile,hard,Statistics,2025-10-25 15:36:02,AI,Intermediate,Neural Networks Basics
+U0184,I0083,video,started,,989,mobile,hard,Python,2025-10-21 13:51:24,Electronics,Intermediate,Digital Electronics
+U0183,I0016,quiz,skipped,,0,web,medium,Robotics,2025-11-04 23:04:45,Robotics,Basic,Introduction to Robotics
+U0170,I0140,reading,completed,5.0,239,mobile,medium,Robotics,2025-04-10 10:40:37,Robotics,Basic,Introduction to Robotics
+U0016,I0107,assignment,started,,1071,web,hard,Python,2025-10-31 04:48:06,Robotics,Intermediate,Kinematics and Dynamics
+U0124,I0103,course,viewed,,452,mobile,easy,Statistics,2025-01-02 15:11:22,Python,Basic,Introduction to Python
+U0068,I0078,assignment,skipped,,0,web,hard,Math,2025-02-19 09:05:44,Statistics,Basic,Descriptive Statistics
+U0120,I0126,assignment,viewed,,1953,web,hard,Statistics,2025-02-09 22:51:56,Electronics,Basic,Basic Circuit Components
+U0147,I0134,video,completed,3.0,1413,web,medium,Robotics,2025-09-29 16:23:32,Math,Basic,Algebra Fundamentals
+U0021,I0084,assignment,completed,2.0,1402,web,medium,Electronics,2025-11-25 05:20:42,Robotics,Intermediate,Kinematics and Dynamics
+U0033,I0053,quiz,attempted,2.0,1603,mobile,easy,Statistics,2025-04-29 16:53:54,Math,Basic,Number Systems and Arithmetic
+U0186,I0040,video,completed,2.0,84,mobile,hard,Robotics,2025-09-07 07:47:25,Python,Basic,Control Flow and Loops
+U0056,I0052,quiz,skipped,,0,web,medium,AI,2025-04-15 13:20:10,AI,Intermediate,Neural Networks Basics
+U0141,I0035,course,completed,4.0,984,mobile,hard,Statistics,2025-12-10 11:53:45,Statistics,Intermediate,Probability Distributions
+U0073,I0142,reading,viewed,,1364,mobile,medium,Statistics,2025-08-20 12:43:08,Electronics,Intermediate,Microcontrollers and Programming
+U0011,I0076,quiz,started,,673,mobile,medium,AI,2025-09-03 01:37:51,Robotics,Intermediate,Control Systems
+U0150,I0010,reading,started,,1212,mobile,medium,Robotics,2025-10-08 19:08:14,Math,Basic,Algebra Fundamentals
+U0088,I0128,video,attempted,4.0,1404,mobile,hard,Electronics,2025-01-19 01:47:32,Math,Intermediate,Linear Algebra
+U0016,I0014,assignment,started,,1605,web,hard,Electronics,2025-11-04 17:15:07,AI,Basic,Introduction to AI Concepts
+U0170,I0015,quiz,started,,85,web,medium,Data Science,2025-09-28 21:15:43,Robotics,Basic,Introduction to Robotics
+U0136,I0127,reading,completed,2.0,888,web,medium,Math,2025-11-10 01:01:08,AI,Intermediate,Machine Learning Algorithms
+U0162,I0125,reading,skipped,,0,web,medium,Math,2025-07-01 09:19:16,Statistics,Intermediate,Hypothesis Testing
+U0063,I0039,assignment,viewed,,587,mobile,hard,Math,2025-02-18 04:14:57,Statistics,Basic,Descriptive Statistics
+U0178,I0017,course,attempted,4.0,1357,mobile,medium,Robotics,2025-05-13 19:44:25,Robotics,Basic,Introduction to Robotics
+U0013,I0009,assignment,skipped,,0,web,hard,Statistics,2025-02-05 14:18:40,Electronics,Intermediate,Microcontrollers and Programming
+U0152,I0004,video,started,,1739,web,easy,Data Science,2025-10-31 04:04:18,Statistics,Intermediate,Probability Distributions
+U0082,I0068,quiz,attempted,5.0,82,web,easy,Python,2025-05-05 00:36:56,Python,Basic,Introduction to Python
+U0130,I0002,course,viewed,,965,web,hard,Electronics,2025-04-25 14:22:18,Math,Intermediate,Linear Algebra
+U0180,I0052,course,viewed,,348,web,hard,Math,2025-04-13 13:05:45,AI,Basic,Introduction to AI Concepts
+U0158,I0086,reading,attempted,4.0,1029,web,easy,Data Science,2025-07-11 11:12:07,Statistics,Basic,Descriptive Statistics
+U0168,I0148,reading,viewed,,1366,mobile,easy,Electronics,2025-07-01 06:13:23,Electronics,Intermediate,Digital Electronics
+U0100,I0065,quiz,started,,85,mobile,medium,Electronics,2025-04-01 04:32:33,Robotics,Intermediate,Control Systems
+U0149,I0009,course,viewed,,1610,web,hard,Python,2025-06-12 14:12:19,Robotics,Basic,Introduction to Robotics
+U0150,I0042,quiz,started,,446,web,hard,AI,2025-02-19 20:29:38,AI,Intermediate,Neural Networks Basics
+U0116,I0037,video,completed,4.0,1036,web,medium,Electronics,2025-03-15 07:47:12,Statistics,Intermediate,Hypothesis Testing
+U0150,I0078,assignment,skipped,,0,mobile,hard,Electronics,2025-02-05 14:13:00,Python,Basic,Introduction to Python
+U0085,I0142,course,viewed,,1068,mobile,hard,Math,2025-02-03 13:11:57,Electronics,Basic,Basic Circuit Components
+U0025,I0111,assignment,started,,1373,web,easy,Robotics,2025-07-13 08:38:36,AI,Intermediate,Neural Networks Basics
+U0160,I0092,reading,completed,4.0,387,web,hard,Python,2025-07-07 11:50:23,Electronics,Basic,Basic Circuit Components
+U0031,I0116,course,skipped,,0,mobile,easy,Math,2025-06-20 12:54:57,Python,Basic,Variables and Data Types
+U0150,I0020,assignment,attempted,3.0,339,mobile,easy,Statistics,2025-07-12 04:06:55,AI,Basic,Introduction to AI Concepts
+U0037,I0103,assignment,viewed,,1402,web,easy,Math,2025-09-14 03:15:10,AI,Intermediate,Machine Learning Algorithms
+U0200,I0080,assignment,attempted,4.0,882,mobile,medium,Robotics,2025-01-25 03:54:57,Math,Basic,Algebra Fundamentals
+U0085,I0121,quiz,attempted,4.0,711,mobile,medium,Statistics,2025-10-23 06:02:12,Electronics,Basic,Basic Circuit Components
+U0069,I0143,video,skipped,,0,web,medium,Robotics,2025-01-13 23:32:33,Robotics,Intermediate,Kinematics and Dynamics
+U0001,I0080,assignment,skipped,,0,web,easy,Python,2025-09-14 08:10:08,Python,Basic,Control Flow and Loops
+U0056,I0101,quiz,attempted,2.0,442,mobile,easy,Robotics,2025-08-25 12:30:11,Python,Basic,Control Flow and Loops
+U0103,I0066,reading,started,,1377,web,hard,Data Science,2025-04-25 07:46:41,Statistics,Intermediate,Hypothesis Testing
+U0126,I0062,reading,viewed,,453,mobile,hard,Statistics,2025-04-22 01:01:12,Robotics,Intermediate,Control Systems
+U0143,I0002,reading,completed,2.0,489,web,easy,Electronics,2025-02-01 08:59:02,Robotics,Intermediate,Control Systems
+U0060,I0149,video,completed,2.0,1310,mobile,easy,Electronics,2025-04-12 14:37:42,Python,Basic,Variables and Data Types
+U0125,I0096,assignment,started,,1037,web,easy,Statistics,2025-10-04 10:38:55,Robotics,Intermediate,Control Systems
+U0066,I0018,reading,completed,4.0,976,mobile,medium,AI,2025-04-01 18:35:04,Robotics,Intermediate,Kinematics and Dynamics
+U0138,I0150,assignment,skipped,,0,web,medium,Statistics,2025-03-11 07:16:26,Math,Intermediate,Linear Algebra
+U0043,I0122,video,attempted,5.0,1107,web,easy,Python,2025-12-13 18:20:13,Math,Intermediate,Linear Algebra
+U0012,I0104,course,completed,2.0,1980,mobile,easy,Math,2025-11-01 21:12:32,Math,Intermediate,Linear Algebra
+U0196,I0148,course,completed,3.0,770,mobile,medium,Robotics,2025-04-15 23:03:32,Math,Basic,Number Systems and Arithmetic
+U0046,I0114,video,skipped,,0,web,hard,Statistics,2025-04-21 00:17:57,Electronics,Intermediate,Microcontrollers and Programming
+U0125,I0148,assignment,viewed,,404,web,hard,Electronics,2025-08-20 02:39:28,Math,Basic,Number Systems and Arithmetic
+U0170,I0028,video,skipped,,0,mobile,medium,Statistics,2025-07-16 00:08:56,Robotics,Intermediate,Kinematics and Dynamics
+U0179,I0031,video,attempted,4.0,828,web,medium,Robotics,2025-07-12 00:41:32,Math,Basic,Number Systems and Arithmetic
+U0150,I0003,assignment,completed,3.0,1548,web,medium,Electronics,2025-06-30 05:40:53,Statistics,Intermediate,Probability Distributions
+U0126,I0116,course,viewed,,1595,mobile,medium,Electronics,2025-07-24 19:13:19,AI,Intermediate,Machine Learning Algorithms
+U0084,I0104,course,viewed,,654,mobile,easy,Python,2025-01-21 16:57:33,AI,Intermediate,Neural Networks Basics
+U0085,I0141,course,completed,2.0,1732,mobile,easy,Python,2025-02-19 18:41:45,AI,Basic,Introduction to AI Concepts
+U0199,I0048,video,attempted,3.0,1296,mobile,hard,Python,2025-08-03 09:12:53,AI,Intermediate,Machine Learning Algorithms
+U0013,I0043,quiz,viewed,,751,mobile,hard,Statistics,2025-03-31 20:35:11,Electronics,Intermediate,Digital Electronics
+U0037,I0110,reading,completed,1.0,564,mobile,medium,Python,2025-07-07 02:36:26,Math,Basic,Algebra Fundamentals
+U0181,I0080,assignment,attempted,3.0,762,web,hard,AI,2025-12-04 07:26:27,Python,Basic,Control Flow and Loops
+U0193,I0136,video,skipped,,0,web,hard,Statistics,2025-01-08 05:56:26,Statistics,Intermediate,Probability Distributions
+U0168,I0104,video,viewed,,1549,web,easy,AI,2025-07-24 21:21:08,Math,Basic,Algebra Fundamentals
+U0077,I0032,course,attempted,4.0,1490,web,easy,Robotics,2025-02-10 07:36:36,Electronics,Intermediate,Digital Electronics
+U0167,I0008,reading,attempted,4.0,50,web,easy,AI,2025-11-24 14:33:22,AI,Intermediate,Neural Networks Basics
+U0120,I0053,course,completed,5.0,1412,web,medium,Robotics,2025-02-13 20:20:47,Math,Basic,Number Systems and Arithmetic
+U0137,I0134,reading,attempted,2.0,521,mobile,easy,Data Science,2025-09-18 22:23:48,Robotics,Basic,Introduction to Robotics
+U0069,I0033,quiz,started,,1571,mobile,medium,Data Science,2025-05-12 08:04:59,Electronics,Intermediate,Microcontrollers and Programming
+U0162,I0024,course,completed,3.0,1419,web,medium,Statistics,2025-05-15 03:06:27,Python,Basic,Control Flow and Loops
+U0139,I0047,video,attempted,4.0,636,web,medium,AI,2025-11-30 04:44:10,AI,Intermediate,Neural Networks Basics
+U0045,I0112,assignment,completed,4.0,1185,web,hard,Data Science,2025-04-14 13:16:44,AI,Basic,Introduction to AI Concepts
+U0032,I0047,assignment,viewed,,1327,web,easy,AI,2025-10-21 07:05:59,Python,Basic,Introduction to Python
+U0073,I0042,quiz,viewed,,1513,web,easy,Robotics,2025-01-29 17:47:15,Math,Intermediate,Linear Algebra
+U0010,I0090,video,viewed,,484,mobile,hard,Electronics,2025-10-31 00:00:58,Statistics,Intermediate,Hypothesis Testing
+U0121,I0128,assignment,started,,393,mobile,hard,Electronics,2025-10-27 15:11:29,Math,Basic,Algebra Fundamentals
+U0197,I0066,video,started,,1003,web,medium,Statistics,2025-04-27 03:43:40,Math,Intermediate,Linear Algebra
+U0105,I0088,assignment,attempted,2.0,1176,mobile,hard,Robotics,2025-01-01 21:33:42,Statistics,Basic,Descriptive Statistics
+U0148,I0117,video,started,,1188,mobile,easy,Data Science,2025-12-04 21:04:02,Python,Basic,Control Flow and Loops
+U0056,I0077,quiz,attempted,2.0,1530,web,medium,Data Science,2025-09-03 10:11:58,Python,Basic,Control Flow and Loops
+U0185,I0051,course,skipped,,0,web,medium,AI,2025-07-02 10:43:39,Statistics,Intermediate,Hypothesis Testing
+U0057,I0032,assignment,skipped,,0,mobile,medium,Math,2025-04-12 12:45:59,Robotics,Intermediate,Kinematics and Dynamics
+U0114,I0148,reading,viewed,,795,web,easy,Python,2025-07-06 00:33:34,Math,Basic,Algebra Fundamentals
+U0154,I0038,course,completed,3.0,1580,mobile,hard,Electronics,2025-10-12 15:32:51,Statistics,Basic,Descriptive Statistics
+U0009,I0137,video,skipped,,0,mobile,medium,Robotics,2025-11-30 21:51:57,Python,Basic,Introduction to Python
+U0049,I0005,reading,completed,1.0,66,web,hard,Data Science,2025-05-25 17:38:15,Electronics,Intermediate,Digital Electronics
+U0031,I0059,quiz,completed,2.0,1651,mobile,medium,Math,2025-11-27 20:56:22,Math,Basic,Algebra Fundamentals
+U0091,I0023,course,attempted,3.0,211,web,easy,Math,2025-06-28 01:33:00,Electronics,Intermediate,Microcontrollers and Programming
+U0194,I0080,quiz,skipped,,0,web,hard,Data Science,2025-05-18 05:56:13,Math,Basic,Algebra Fundamentals
+U0037,I0118,reading,completed,3.0,1486,web,medium,AI,2025-05-20 16:31:34,Statistics,Basic,Descriptive Statistics
+U0008,I0036,course,viewed,,1933,mobile,medium,Math,2025-09-10 09:27:42,Math,Intermediate,Linear Algebra
+U0170,I0112,video,skipped,,0,web,easy,Math,2025-02-16 04:17:11,Robotics,Basic,Introduction to Robotics
+U0009,I0138,video,completed,5.0,341,web,hard,Electronics,2025-04-28 20:07:50,Statistics,Basic,Descriptive Statistics
+U0005,I0065,video,started,,1959,mobile,medium,Math,2025-08-01 20:11:24,Math,Intermediate,Linear Algebra
+U0013,I0031,course,started,,1718,mobile,medium,Statistics,2025-08-29 03:21:08,Math,Basic,Algebra Fundamentals
+U0140,I0047,assignment,started,,736,web,easy,Statistics,2025-01-01 20:52:42,AI,Basic,Introduction to AI Concepts
+U0016,I0013,quiz,viewed,,1009,mobile,hard,Statistics,2025-09-03 05:19:56,Robotics,Intermediate,Kinematics and Dynamics
+U0059,I0097,course,started,,1448,mobile,hard,Data Science,2025-12-11 10:04:37,AI,Intermediate,Machine Learning Algorithms
+U0090,I0041,assignment,skipped,,0,mobile,easy,Python,2025-06-15 01:47:23,AI,Intermediate,Machine Learning Algorithms
+U0058,I0029,quiz,attempted,5.0,603,mobile,medium,Statistics,2025-02-04 03:50:26,Math,Intermediate,Linear Algebra
+U0198,I0038,assignment,attempted,1.0,1873,web,hard,AI,2025-02-27 15:27:25,Math,Basic,Algebra Fundamentals
+U0149,I0044,quiz,completed,3.0,1924,mobile,hard,Robotics,2025-07-27 10:17:22,Robotics,Basic,Introduction to Robotics
+U0038,I0039,video,completed,5.0,885,mobile,easy,AI,2025-10-30 12:53:57,Electronics,Intermediate,Microcontrollers and Programming
+U0086,I0101,quiz,completed,3.0,981,web,easy,AI,2025-01-20 03:12:15,Robotics,Basic,Introduction to Robotics
+U0018,I0098,video,skipped,,0,web,hard,Statistics,2025-02-11 17:04:30,Math,Basic,Number Systems and Arithmetic
+U0157,I0095,assignment,viewed,,1029,web,easy,Data Science,2025-06-28 23:30:10,Electronics,Basic,Basic Circuit Components
+U0047,I0125,assignment,viewed,,1771,web,medium,Python,2025-09-12 01:52:57,Electronics,Intermediate,Digital Electronics
+U0187,I0078,quiz,attempted,3.0,1348,mobile,medium,Math,2025-02-22 14:59:16,Statistics,Intermediate,Hypothesis Testing
+U0064,I0055,reading,skipped,,0,web,hard,Math,2025-10-23 02:47:06,Electronics,Intermediate,Microcontrollers and Programming
+U0169,I0121,quiz,attempted,2.0,1245,mobile,medium,Data Science,2025-09-08 14:14:44,Statistics,Basic,Descriptive Statistics
+U0052,I0122,reading,started,,628,web,easy,Data Science,2025-09-14 01:37:49,Python,Basic,Introduction to Python
+U0066,I0075,video,skipped,,0,web,hard,Robotics,2025-06-27 22:57:55,Statistics,Basic,Descriptive Statistics
+U0015,I0126,reading,attempted,4.0,1457,web,medium,Statistics,2025-08-26 13:10:00,Robotics,Basic,Introduction to Robotics
+U0119,I0031,assignment,started,,1560,mobile,easy,Robotics,2025-01-07 10:52:42,Statistics,Intermediate,Hypothesis Testing
+U0037,I0101,course,attempted,3.0,1511,web,medium,Math,2025-01-02 18:18:41,AI,Intermediate,Machine Learning Algorithms
+U0152,I0135,quiz,started,,1818,mobile,hard,Python,2025-02-04 19:50:29,Python,Basic,Introduction to Python
+U0011,I0141,video,completed,5.0,48,mobile,medium,Robotics,2025-05-19 00:19:32,Python,Basic,Introduction to Python
+U0151,I0077,reading,attempted,5.0,681,mobile,medium,Robotics,2025-12-03 04:43:27,Math,Intermediate,Linear Algebra
+U0103,I0037,reading,skipped,,0,web,easy,Data Science,2025-10-23 14:23:32,Electronics,Intermediate,Digital Electronics
+U0159,I0089,assignment,completed,1.0,1213,mobile,hard,Math,2025-04-12 13:05:38,Statistics,Intermediate,Probability Distributions
+U0142,I0079,reading,started,,995,mobile,hard,AI,2025-02-10 13:01:37,Python,Basic,Control Flow and Loops
+U0106,I0047,assignment,skipped,,0,mobile,medium,Data Science,2025-11-24 14:57:42,Statistics,Basic,Descriptive Statistics
+U0055,I0132,assignment,completed,4.0,749,mobile,hard,Data Science,2025-04-28 02:22:06,Statistics,Intermediate,Hypothesis Testing
+U0067,I0145,quiz,completed,1.0,85,mobile,medium,Robotics,2025-06-17 04:30:08,Statistics,Intermediate,Probability Distributions
+U0005,I0118,assignment,viewed,,1572,mobile,easy,Statistics,2025-08-12 08:21:33,Python,Basic,Control Flow and Loops
+U0104,I0046,course,attempted,2.0,1961,mobile,easy,Statistics,2025-02-18 07:24:43,Statistics,Intermediate,Hypothesis Testing
+U0128,I0062,video,completed,5.0,1143,web,easy,Robotics,2025-01-06 11:53:53,Robotics,Intermediate,Kinematics and Dynamics
+U0145,I0104,reading,viewed,,961,web,hard,Statistics,2025-06-21 23:29:09,AI,Intermediate,Machine Learning Algorithms
+U0005,I0020,assignment,attempted,3.0,1186,mobile,easy,Statistics,2025-02-14 15:04:40,Python,Basic,Variables and Data Types
+U0001,I0055,course,skipped,,0,mobile,medium,Electronics,2025-01-12 23:22:20,Statistics,Intermediate,Hypothesis Testing
+U0150,I0134,reading,skipped,,0,web,easy,Python,2025-02-27 05:19:50,Electronics,Intermediate,Microcontrollers and Programming
+U0141,I0069,quiz,started,,1597,web,hard,Statistics,2025-02-21 11:15:59,Electronics,Intermediate,Digital Electronics
+U0179,I0019,reading,started,,423,web,easy,Electronics,2025-04-09 12:38:41,Electronics,Intermediate,Microcontrollers and Programming
+U0047,I0116,video,attempted,1.0,522,web,medium,AI,2025-10-06 11:39:51,Statistics,Intermediate,Hypothesis Testing
+U0017,I0115,quiz,started,,652,web,medium,Robotics,2025-09-24 05:39:03,Electronics,Intermediate,Digital Electronics
+U0006,I0122,assignment,attempted,4.0,1208,mobile,easy,AI,2025-02-04 21:54:46,Electronics,Intermediate,Digital Electronics
+U0064,I0109,assignment,attempted,5.0,1083,web,easy,AI,2025-06-21 13:47:18,Robotics,Intermediate,Kinematics and Dynamics
+U0110,I0029,course,viewed,,710,web,hard,Electronics,2025-12-01 18:07:15,Math,Basic,Number Systems and Arithmetic
+U0137,I0140,course,completed,4.0,764,web,medium,AI,2025-07-16 07:39:24,Python,Basic,Control Flow and Loops
+U0062,I0099,video,started,,482,web,hard,Statistics,2025-05-08 05:12:54,Robotics,Intermediate,Control Systems
+U0124,I0092,course,attempted,2.0,1420,mobile,easy,Electronics,2025-04-13 00:55:01,Statistics,Intermediate,Hypothesis Testing
+U0089,I0056,assignment,viewed,,1274,mobile,medium,AI,2025-09-24 22:58:46,Statistics,Intermediate,Hypothesis Testing
+U0067,I0026,reading,completed,5.0,30,web,medium,Robotics,2025-01-23 20:23:27,Math,Basic,Algebra Fundamentals
+U0055,I0107,assignment,started,,860,web,easy,Statistics,2025-07-31 05:07:25,Electronics,Intermediate,Microcontrollers and Programming
+U0024,I0024,course,completed,1.0,1123,mobile,medium,Math,2025-02-19 13:43:22,Python,Basic,Introduction to Python
+U0109,I0068,course,skipped,,0,mobile,medium,AI,2025-09-15 13:46:36,Python,Basic,Introduction to Python
+U0008,I0052,assignment,started,,357,mobile,hard,Python,2025-07-03 04:50:03,Math,Basic,Algebra Fundamentals
+U0032,I0041,assignment,attempted,1.0,1026,mobile,hard,Electronics,2025-11-23 02:51:24,Statistics,Intermediate,Hypothesis Testing
+U0013,I0119,reading,attempted,2.0,1842,mobile,easy,Python,2025-04-24 18:03:22,Math,Intermediate,Linear Algebra
+U0027,I0057,reading,completed,4.0,1192,web,hard,Statistics,2025-06-07 22:25:32,Robotics,Intermediate,Kinematics and Dynamics
+U0099,I0150,assignment,attempted,2.0,598,mobile,hard,Electronics,2025-11-25 14:39:08,Electronics,Intermediate,Digital Electronics
+U0052,I0104,video,attempted,5.0,1017,mobile,easy,Electronics,2025-07-25 11:37:51,Electronics,Intermediate,Digital Electronics
+U0101,I0026,video,skipped,,0,web,medium,AI,2025-10-15 12:04:30,Statistics,Intermediate,Hypothesis Testing
+U0173,I0061,assignment,skipped,,0,mobile,hard,Statistics,2025-11-26 12:59:41,Robotics,Intermediate,Kinematics and Dynamics
+U0096,I0021,assignment,attempted,2.0,1827,web,easy,Python,2025-08-06 21:39:18,Math,Basic,Algebra Fundamentals
+U0107,I0052,video,attempted,5.0,1677,mobile,medium,Data Science,2025-03-29 15:03:57,Python,Basic,Control Flow and Loops
+U0077,I0021,course,skipped,,0,mobile,medium,Electronics,2025-05-12 10:31:48,Statistics,Intermediate,Probability Distributions
+U0139,I0131,reading,started,,694,mobile,medium,Statistics,2025-02-21 12:10:36,Python,Basic,Control Flow and Loops
+U0104,I0119,reading,attempted,1.0,1922,web,medium,AI,2025-05-20 03:41:04,Math,Basic,Number Systems and Arithmetic
+U0188,I0150,reading,completed,4.0,1992,web,medium,Statistics,2025-01-11 14:31:37,Electronics,Intermediate,Digital Electronics
+U0038,I0066,course,attempted,3.0,1535,mobile,medium,AI,2025-10-21 23:05:43,Statistics,Intermediate,Probability Distributions
+U0113,I0013,quiz,attempted,2.0,1217,mobile,easy,AI,2025-09-14 00:44:30,Robotics,Intermediate,Kinematics and Dynamics
+U0037,I0072,quiz,viewed,,1495,mobile,hard,Robotics,2025-06-16 09:43:41,Electronics,Intermediate,Digital Electronics
+U0014,I0106,assignment,completed,1.0,1477,mobile,easy,Math,2025-04-05 00:33:34,Python,Basic,Introduction to Python
+U0124,I0045,quiz,completed,1.0,210,web,medium,Data Science,2025-05-07 18:37:35,Electronics,Intermediate,Microcontrollers and Programming
+U0048,I0143,course,attempted,5.0,1351,web,medium,Data Science,2025-01-16 15:17:51,Python,Basic,Introduction to Python
+U0115,I0051,quiz,skipped,,0,web,medium,Math,2025-06-03 00:20:06,Electronics,Intermediate,Digital Electronics
+U0068,I0054,course,started,,1548,web,easy,Data Science,2025-04-01 20:00:05,Electronics,Intermediate,Microcontrollers and Programming
+U0023,I0120,reading,completed,5.0,1742,web,hard,Statistics,2025-02-14 04:41:17,Python,Basic,Introduction to Python
+U0060,I0017,video,started,,933,mobile,hard,AI,2025-05-28 23:37:01,AI,Intermediate,Neural Networks Basics
+U0121,I0055,quiz,skipped,,0,web,hard,Python,2025-12-05 04:53:03,Electronics,Intermediate,Digital Electronics
+U0197,I0116,reading,started,,709,web,medium,Data Science,2025-07-26 13:08:11,Statistics,Intermediate,Probability Distributions
+U0007,I0145,quiz,completed,4.0,206,mobile,easy,Electronics,2025-10-05 21:26:23,Statistics,Intermediate,Hypothesis Testing
+U0014,I0130,assignment,viewed,,837,mobile,medium,Python,2025-10-20 09:02:37,Statistics,Intermediate,Hypothesis Testing
+U0195,I0145,course,started,,29,web,hard,Electronics,2025-08-23 17:02:31,Statistics,Basic,Descriptive Statistics
+U0029,I0065,course,skipped,,0,mobile,easy,AI,2025-05-31 22:35:01,Robotics,Intermediate,Control Systems
+U0075,I0147,course,skipped,,0,web,easy,Python,2025-01-18 13:23:15,Statistics,Basic,Descriptive Statistics
+U0076,I0103,quiz,skipped,,0,web,easy,AI,2025-11-09 16:24:54,Robotics,Intermediate,Kinematics and Dynamics
+U0026,I0097,video,started,,1675,mobile,hard,Statistics,2025-02-28 16:58:13,Robotics,Basic,Introduction to Robotics
+U0173,I0105,course,skipped,,0,web,hard,Statistics,2025-03-05 03:34:52,AI,Basic,Introduction to AI Concepts
+U0139,I0002,video,completed,5.0,392,mobile,easy,AI,2025-01-18 19:36:10,Robotics,Intermediate,Control Systems
+U0035,I0115,course,viewed,,80,mobile,medium,Python,2025-02-17 23:34:50,Math,Basic,Algebra Fundamentals
+U0175,I0146,course,attempted,5.0,494,mobile,easy,Data Science,2025-05-01 08:41:47,Electronics,Intermediate,Digital Electronics
+U0111,I0113,quiz,completed,1.0,710,web,easy,Statistics,2025-04-05 21:47:42,Python,Basic,Control Flow and Loops
+U0142,I0120,reading,attempted,4.0,1482,mobile,easy,Statistics,2025-03-05 02:06:06,Math,Basic,Number Systems and Arithmetic
+U0115,I0077,assignment,skipped,,0,mobile,easy,Robotics,2025-01-26 14:24:30,AI,Intermediate,Machine Learning Algorithms
+U0134,I0098,video,skipped,,0,web,easy,Robotics,2025-04-19 07:54:40,AI,Basic,Introduction to AI Concepts
+U0080,I0003,quiz,skipped,,0,mobile,easy,Robotics,2025-04-17 17:08:04,Statistics,Basic,Descriptive Statistics
+U0184,I0007,quiz,skipped,,0,mobile,hard,Electronics,2025-09-30 04:40:00,Python,Basic,Variables and Data Types
+U0133,I0023,assignment,started,,1884,web,hard,AI,2025-10-06 23:35:17,Python,Basic,Variables and Data Types
+U0125,I0071,reading,started,,975,mobile,hard,Math,2025-01-19 23:16:05,AI,Basic,Introduction to AI Concepts
+U0099,I0097,course,completed,3.0,1159,mobile,easy,Statistics,2025-11-08 14:46:38,AI,Basic,Introduction to AI Concepts
+U0131,I0042,assignment,attempted,5.0,1887,mobile,easy,Statistics,2025-07-22 08:08:33,AI,Basic,Introduction to AI Concepts
+U0064,I0016,reading,completed,4.0,311,web,medium,Statistics,2025-04-05 14:41:06,Statistics,Basic,Descriptive Statistics
+U0130,I0007,quiz,completed,1.0,585,web,hard,Electronics,2025-07-16 09:12:02,Python,Basic,Variables and Data Types
+U0021,I0034,reading,viewed,,1010,mobile,medium,Math,2025-10-11 04:39:14,Robotics,Basic,Introduction to Robotics
+U0091,I0027,quiz,viewed,,770,mobile,hard,Python,2025-11-02 04:07:03,Python,Basic,Introduction to Python
+U0179,I0031,quiz,attempted,4.0,55,web,hard,Python,2025-09-27 08:15:18,Math,Intermediate,Linear Algebra
+U0043,I0110,reading,started,,325,mobile,medium,Math,2025-11-16 18:44:01,Electronics,Intermediate,Microcontrollers and Programming
+U0161,I0048,assignment,started,,563,web,hard,Electronics,2025-06-23 00:47:02,Robotics,Intermediate,Kinematics and Dynamics
+U0008,I0124,reading,started,,641,mobile,easy,Python,2025-07-16 05:40:48,Statistics,Intermediate,Probability Distributions
+U0195,I0091,video,started,,94,web,hard,Python,2025-02-07 06:51:59,Statistics,Intermediate,Hypothesis Testing
+U0059,I0023,quiz,started,,1823,mobile,easy,Data Science,2025-09-17 23:05:30,AI,Basic,Introduction to AI Concepts
+U0032,I0112,assignment,completed,1.0,105,web,easy,Statistics,2025-01-15 04:54:42,Math,Basic,Number Systems and Arithmetic
+U0158,I0138,video,skipped,,0,mobile,medium,AI,2025-01-27 13:15:03,Python,Basic,Variables and Data Types
+U0144,I0081,reading,attempted,1.0,502,mobile,medium,Robotics,2025-06-24 05:25:54,Math,Basic,Number Systems and Arithmetic
+U0033,I0051,video,viewed,,520,mobile,hard,Electronics,2025-07-15 08:20:00,Electronics,Intermediate,Digital Electronics
+U0144,I0013,video,completed,2.0,495,web,medium,Math,2025-05-25 02:11:04,Electronics,Basic,Basic Circuit Components
+U0169,I0029,assignment,viewed,,1642,web,hard,Python,2025-10-11 06:08:28,Electronics,Basic,Basic Circuit Components
+U0112,I0105,video,completed,4.0,1334,web,hard,Electronics,2025-01-09 10:36:53,Math,Basic,Algebra Fundamentals
+U0049,I0036,quiz,skipped,,0,mobile,medium,Robotics,2025-06-15 23:50:35,Statistics,Intermediate,Probability Distributions
+U0099,I0042,course,viewed,,110,mobile,medium,Electronics,2025-12-13 04:24:45,AI,Basic,Introduction to AI Concepts
+U0162,I0027,course,viewed,,1533,mobile,hard,Statistics,2025-05-25 22:07:45,AI,Intermediate,Machine Learning Algorithms
+U0134,I0039,course,started,,115,web,easy,Electronics,2025-06-18 02:56:29,Statistics,Basic,Descriptive Statistics
+U0109,I0014,quiz,completed,4.0,1943,web,hard,Robotics,2025-05-10 11:36:10,Statistics,Intermediate,Hypothesis Testing
+U0104,I0035,assignment,viewed,,790,mobile,hard,Math,2025-08-17 10:50:03,Robotics,Intermediate,Control Systems
+U0077,I0075,video,completed,3.0,28,web,hard,Python,2025-10-18 05:27:16,Electronics,Intermediate,Digital Electronics
+U0185,I0119,reading,completed,1.0,1596,mobile,hard,Python,2025-05-30 23:49:24,Math,Intermediate,Linear Algebra
+U0188,I0037,assignment,viewed,,1643,web,medium,Robotics,2025-06-06 11:51:06,Statistics,Intermediate,Probability Distributions
+U0116,I0054,course,skipped,,0,mobile,medium,Robotics,2025-01-10 13:22:29,AI,Intermediate,Machine Learning Algorithms
+U0016,I0076,course,started,,1484,web,easy,Math,2025-07-20 23:12:09,Math,Basic,Number Systems and Arithmetic
+U0152,I0050,quiz,skipped,,0,mobile,hard,Python,2025-10-29 04:36:45,Python,Basic,Variables and Data Types
+U0041,I0025,course,attempted,2.0,1037,mobile,medium,Math,2025-04-05 23:53:52,AI,Basic,Introduction to AI Concepts
+U0037,I0041,course,completed,2.0,1406,web,medium,Statistics,2025-01-01 00:44:59,Statistics,Intermediate,Hypothesis Testing
+U0086,I0150,quiz,completed,5.0,805,mobile,medium,AI,2025-08-21 06:03:11,Statistics,Intermediate,Hypothesis Testing
+U0020,I0031,quiz,completed,5.0,1284,web,medium,Python,2025-04-18 12:57:53,Electronics,Intermediate,Digital Electronics
+U0140,I0104,quiz,skipped,,0,mobile,easy,Statistics,2025-07-20 23:11:10,Statistics,Intermediate,Hypothesis Testing
+U0089,I0085,quiz,completed,1.0,1594,web,easy,Python,2025-02-08 17:37:13,Math,Basic,Number Systems and Arithmetic
+U0105,I0078,assignment,viewed,,723,mobile,medium,AI,2025-08-12 20:29:06,AI,Intermediate,Machine Learning Algorithms
+U0051,I0094,reading,viewed,,425,mobile,easy,Electronics,2025-09-26 16:13:50,AI,Intermediate,Machine Learning Algorithms
+U0101,I0133,reading,completed,4.0,557,mobile,hard,Data Science,2025-08-03 14:50:35,Statistics,Basic,Descriptive Statistics
+U0127,I0147,quiz,skipped,,0,web,easy,Data Science,2025-10-23 03:23:40,AI,Intermediate,Machine Learning Algorithms
+U0038,I0011,video,skipped,,0,web,hard,AI,2025-06-14 07:35:44,Electronics,Basic,Basic Circuit Components
+U0071,I0079,assignment,completed,3.0,766,mobile,hard,Robotics,2025-07-05 08:07:22,AI,Intermediate,Neural Networks Basics
+U0136,I0121,course,attempted,2.0,560,web,medium,Robotics,2025-04-04 06:19:14,Python,Basic,Control Flow and Loops
+U0175,I0046,assignment,completed,2.0,365,mobile,medium,Data Science,2025-03-01 09:32:19,Math,Basic,Algebra Fundamentals
+U0054,I0014,reading,skipped,,0,web,hard,Robotics,2025-09-19 07:12:31,AI,Intermediate,Neural Networks Basics
+U0150,I0013,video,completed,3.0,1296,web,hard,Robotics,2025-09-25 21:50:11,Robotics,Basic,Introduction to Robotics
+U0179,I0107,video,skipped,,0,mobile,hard,Math,2025-04-10 22:34:48,Python,Basic,Variables and Data Types
+U0025,I0117,video,attempted,4.0,769,web,easy,AI,2025-02-19 16:31:05,Robotics,Intermediate,Kinematics and Dynamics
+U0001,I0083,course,skipped,,0,web,medium,Math,2025-02-05 14:36:11,Python,Basic,Control Flow and Loops
+U0147,I0054,course,viewed,,344,web,hard,Robotics,2025-12-07 11:30:02,Statistics,Basic,Descriptive Statistics
+U0083,I0078,video,skipped,,0,web,medium,Statistics,2025-05-19 15:52:49,Robotics,Intermediate,Kinematics and Dynamics
+U0088,I0097,course,attempted,3.0,1156,mobile,hard,Math,2025-08-06 08:37:35,AI,Intermediate,Neural Networks Basics
+U0001,I0099,reading,viewed,,1414,mobile,hard,Statistics,2025-01-28 15:08:53,Robotics,Basic,Introduction to Robotics
+U0131,I0017,video,started,,169,mobile,hard,Math,2025-11-02 03:52:36,Electronics,Intermediate,Digital Electronics
+U0119,I0120,course,completed,5.0,1502,mobile,medium,Statistics,2025-08-27 08:56:36,Math,Intermediate,Linear Algebra
+U0167,I0060,quiz,skipped,,0,web,easy,Python,2025-10-01 05:33:52,Statistics,Basic,Descriptive Statistics
+U0154,I0067,reading,viewed,,1940,web,medium,Statistics,2025-10-23 16:01:25,Electronics,Intermediate,Digital Electronics
+U0126,I0004,video,skipped,,0,mobile,medium,Math,2025-06-14 14:19:29,Python,Basic,Variables and Data Types
+U0153,I0144,reading,completed,1.0,957,mobile,easy,AI,2025-02-21 00:19:29,Statistics,Basic,Descriptive Statistics
+U0188,I0122,assignment,started,,482,mobile,medium,AI,2025-09-23 10:24:46,Robotics,Basic,Introduction to Robotics
+U0194,I0085,quiz,completed,4.0,31,mobile,hard,AI,2025-05-28 23:10:40,AI,Basic,Introduction to AI Concepts
+U0165,I0002,video,completed,1.0,515,mobile,medium,Data Science,2025-03-11 12:24:13,Statistics,Intermediate,Probability Distributions
+U0154,I0024,quiz,viewed,,1817,mobile,medium,Math,2025-07-09 17:58:39,Math,Basic,Algebra Fundamentals
+U0140,I0037,video,completed,4.0,985,web,easy,AI,2025-04-14 09:40:05,Electronics,Basic,Basic Circuit Components
+U0139,I0113,reading,viewed,,1889,mobile,hard,Robotics,2025-07-10 17:39:26,Python,Basic,Variables and Data Types
+U0127,I0002,quiz,completed,2.0,1658,web,hard,Python,2025-04-04 04:03:51,Statistics,Intermediate,Hypothesis Testing
+U0050,I0012,reading,attempted,3.0,452,web,hard,Math,2025-08-29 02:33:26,Math,Basic,Algebra Fundamentals
+U0056,I0060,quiz,started,,410,web,medium,Robotics,2025-02-18 00:15:11,AI,Basic,Introduction to AI Concepts
+U0037,I0130,video,started,,823,web,medium,Math,2025-04-11 21:22:06,AI,Basic,Introduction to AI Concepts
+U0067,I0073,course,attempted,3.0,752,web,easy,Math,2025-09-14 17:39:28,Electronics,Intermediate,Microcontrollers and Programming
+U0052,I0102,video,attempted,2.0,591,mobile,medium,Math,2025-08-23 00:56:05,Robotics,Intermediate,Kinematics and Dynamics
+U0082,I0007,reading,skipped,,0,web,medium,AI,2025-02-06 16:50:25,AI,Intermediate,Machine Learning Algorithms
+U0124,I0016,reading,viewed,,341,web,medium,Statistics,2025-08-20 05:15:25,Statistics,Intermediate,Probability Distributions
+U0024,I0107,quiz,skipped,,0,mobile,easy,Python,2025-02-14 22:37:43,Math,Intermediate,Linear Algebra
+U0007,I0044,assignment,viewed,,1784,web,hard,Robotics,2025-11-02 18:37:35,Python,Basic,Control Flow and Loops
+U0126,I0106,video,viewed,,1251,web,easy,Data Science,2025-03-05 06:18:48,Math,Intermediate,Linear Algebra
+U0190,I0079,assignment,started,,1579,mobile,hard,Electronics,2025-08-28 17:07:05,Math,Basic,Number Systems and Arithmetic
+U0049,I0001,quiz,started,,1048,mobile,medium,Python,2025-10-16 13:48:57,Statistics,Intermediate,Probability Distributions
+U0191,I0032,video,skipped,,0,web,hard,Robotics,2025-02-13 15:01:50,Electronics,Intermediate,Microcontrollers and Programming
+U0131,I0110,course,attempted,1.0,1093,web,medium,Math,2025-06-27 13:21:53,Robotics,Intermediate,Kinematics and Dynamics
+U0028,I0124,assignment,viewed,,605,web,easy,AI,2025-09-15 02:51:12,AI,Intermediate,Neural Networks Basics
+U0147,I0094,assignment,completed,1.0,740,web,hard,Robotics,2025-08-15 02:33:36,Robotics,Basic,Introduction to Robotics
+U0118,I0060,reading,completed,4.0,1976,web,easy,Math,2025-11-19 16:39:48,Robotics,Intermediate,Kinematics and Dynamics
+U0169,I0001,assignment,completed,1.0,655,mobile,medium,Data Science,2025-02-16 07:43:46,Electronics,Intermediate,Microcontrollers and Programming
+U0126,I0124,reading,viewed,,1482,mobile,hard,AI,2025-01-16 10:47:37,Robotics,Intermediate,Kinematics and Dynamics
+U0144,I0039,reading,viewed,,167,web,medium,Electronics,2025-04-26 17:31:53,Math,Intermediate,Linear Algebra
+U0105,I0052,course,attempted,3.0,208,mobile,easy,Robotics,2025-10-21 23:25:41,Statistics,Intermediate,Probability Distributions
+U0171,I0111,assignment,skipped,,0,mobile,easy,Robotics,2025-06-14 04:52:30,Math,Basic,Algebra Fundamentals
+U0158,I0131,video,started,,1024,mobile,hard,Statistics,2025-02-17 20:00:08,Electronics,Basic,Basic Circuit Components
+U0031,I0065,video,started,,1757,mobile,medium,Data Science,2025-11-02 02:31:46,Robotics,Intermediate,Control Systems
+U0169,I0041,assignment,viewed,,1270,web,easy,Electronics,2025-06-26 19:43:58,Robotics,Intermediate,Kinematics and Dynamics
+U0147,I0020,quiz,skipped,,0,web,hard,Statistics,2025-09-25 09:36:57,Python,Basic,Variables and Data Types
+U0186,I0037,quiz,started,,1958,web,hard,Python,2025-04-15 03:30:56,AI,Intermediate,Neural Networks Basics
+U0031,I0039,course,attempted,3.0,1406,web,hard,Python,2025-07-24 00:35:27,Electronics,Basic,Basic Circuit Components
+U0056,I0135,video,completed,1.0,1332,mobile,easy,Math,2025-06-15 12:33:55,Robotics,Basic,Introduction to Robotics
+U0162,I0003,video,skipped,,0,mobile,easy,Statistics,2025-11-17 09:12:34,AI,Intermediate,Neural Networks Basics
+U0163,I0032,quiz,viewed,,333,mobile,medium,Math,2025-03-25 10:21:00,Statistics,Intermediate,Hypothesis Testing
+U0003,I0117,quiz,viewed,,316,mobile,medium,AI,2025-04-29 23:46:43,Electronics,Intermediate,Microcontrollers and Programming
+U0121,I0045,video,viewed,,545,mobile,easy,Math,2025-11-06 09:34:15,Electronics,Basic,Basic Circuit Components
+U0036,I0143,assignment,skipped,,0,mobile,medium,Electronics,2025-05-29 22:51:57,Math,Basic,Number Systems and Arithmetic
+U0132,I0017,assignment,viewed,,905,mobile,hard,Data Science,2025-04-10 18:07:58,Statistics,Basic,Descriptive Statistics
+U0147,I0068,video,attempted,1.0,794,web,hard,AI,2025-10-09 03:46:32,Electronics,Intermediate,Digital Electronics
+U0072,I0044,assignment,completed,2.0,1340,mobile,easy,Python,2025-03-06 05:13:26,Robotics,Basic,Introduction to Robotics
+U0014,I0088,quiz,completed,5.0,538,web,hard,Python,2025-04-06 22:57:55,Robotics,Intermediate,Kinematics and Dynamics
+U0168,I0074,course,viewed,,1047,web,medium,Data Science,2025-09-21 23:18:03,AI,Basic,Introduction to AI Concepts
+U0025,I0150,course,skipped,,0,mobile,medium,Data Science,2025-01-21 21:26:10,Electronics,Intermediate,Digital Electronics
+U0131,I0030,quiz,completed,5.0,653,web,easy,AI,2025-12-12 02:47:18,Statistics,Intermediate,Probability Distributions
+U0001,I0011,reading,viewed,,1119,web,hard,Data Science,2025-10-04 21:43:43,Electronics,Intermediate,Microcontrollers and Programming
+U0071,I0087,reading,started,,808,web,medium,Math,2025-02-26 22:00:37,Robotics,Intermediate,Control Systems
+U0108,I0076,video,completed,4.0,1135,mobile,easy,Math,2025-07-11 22:30:33,Robotics,Basic,Introduction to Robotics
+U0172,I0080,assignment,viewed,,1961,web,medium,Statistics,2025-03-17 12:52:56,Statistics,Basic,Descriptive Statistics
+U0023,I0063,course,skipped,,0,web,easy,Math,2025-10-18 18:09:34,Python,Basic,Variables and Data Types
+U0123,I0091,quiz,attempted,3.0,1892,web,hard,Math,2025-04-20 14:55:38,Math,Basic,Algebra Fundamentals
+U0179,I0073,assignment,attempted,2.0,597,web,hard,Math,2025-02-08 19:06:56,Robotics,Intermediate,Kinematics and Dynamics
+U0029,I0100,assignment,completed,2.0,455,mobile,medium,Electronics,2025-08-27 01:15:35,Python,Basic,Variables and Data Types
+U0129,I0052,assignment,started,,1958,web,hard,Electronics,2025-11-26 02:45:43,Python,Basic,Introduction to Python
+U0001,I0109,assignment,attempted,4.0,1935,web,easy,Data Science,2025-07-27 23:44:09,Math,Intermediate,Linear Algebra
+U0121,I0032,quiz,completed,4.0,1602,web,medium,Robotics,2025-11-27 16:03:19,Python,Basic,Introduction to Python
+U0200,I0114,course,skipped,,0,mobile,easy,Python,2025-08-03 23:40:44,Statistics,Intermediate,Hypothesis Testing
+U0182,I0062,reading,viewed,,623,mobile,medium,Statistics,2025-01-27 15:11:24,Math,Basic,Number Systems and Arithmetic
+U0154,I0078,assignment,completed,4.0,1832,web,easy,Math,2025-02-21 22:27:22,Robotics,Basic,Introduction to Robotics
+U0025,I0125,assignment,viewed,,1584,web,hard,AI,2025-10-23 16:25:18,Math,Basic,Number Systems and Arithmetic
+U0053,I0064,course,skipped,,0,web,hard,Math,2025-09-12 21:24:34,Electronics,Basic,Basic Circuit Components
+U0140,I0031,quiz,skipped,,0,mobile,medium,Electronics,2025-09-14 02:16:53,AI,Intermediate,Machine Learning Algorithms
+U0144,I0035,course,viewed,,1109,web,hard,Electronics,2025-02-06 05:33:09,Math,Basic,Algebra Fundamentals
+U0059,I0149,quiz,skipped,,0,web,easy,Robotics,2025-01-28 16:05:24,AI,Basic,Introduction to AI Concepts
+U0134,I0038,assignment,viewed,,669,web,medium,Electronics,2025-11-30 14:29:16,Robotics,Basic,Introduction to Robotics
+U0147,I0068,assignment,completed,3.0,1708,mobile,medium,Robotics,2025-07-28 00:40:19,AI,Basic,Introduction to AI Concepts
+U0042,I0058,quiz,attempted,3.0,334,web,easy,Statistics,2025-10-23 17:57:41,AI,Intermediate,Neural Networks Basics
+U0158,I0116,video,attempted,1.0,1202,web,medium,Electronics,2025-02-06 22:45:37,AI,Basic,Introduction to AI Concepts
+U0003,I0090,video,started,,1464,web,easy,Robotics,2025-02-20 00:34:10,Electronics,Basic,Basic Circuit Components
+U0149,I0141,video,viewed,,930,mobile,hard,Statistics,2025-08-07 09:48:04,Robotics,Intermediate,Control Systems
+U0078,I0025,course,started,,1767,mobile,hard,Statistics,2025-11-01 07:06:45,Statistics,Basic,Descriptive Statistics
+U0121,I0087,video,completed,3.0,1587,mobile,hard,Math,2025-06-23 13:19:45,Python,Basic,Control Flow and Loops
+U0186,I0127,course,started,,897,mobile,easy,Electronics,2025-10-13 04:45:26,Python,Basic,Variables and Data Types
+U0198,I0064,course,started,,1336,mobile,medium,Math,2025-06-26 20:59:20,Electronics,Intermediate,Microcontrollers and Programming
+U0041,I0030,assignment,completed,1.0,617,mobile,medium,Data Science,2025-06-16 09:14:24,Robotics,Intermediate,Kinematics and Dynamics
+U0023,I0123,assignment,started,,1228,mobile,hard,Statistics,2025-04-01 01:59:13,AI,Intermediate,Machine Learning Algorithms
+U0176,I0132,course,skipped,,0,web,easy,Data Science,2025-10-29 11:01:39,Math,Intermediate,Linear Algebra
+U0028,I0065,assignment,skipped,,0,mobile,easy,Data Science,2025-11-15 12:14:10,Robotics,Intermediate,Control Systems
+U0191,I0141,video,completed,1.0,1869,web,hard,Electronics,2025-04-30 21:43:29,AI,Intermediate,Machine Learning Algorithms
+U0127,I0055,video,completed,5.0,1844,web,medium,Math,2025-05-14 02:41:56,Math,Basic,Algebra Fundamentals
+U0178,I0004,video,started,,1985,mobile,medium,Python,2025-03-29 12:00:18,Statistics,Intermediate,Hypothesis Testing
+U0045,I0065,quiz,started,,695,mobile,medium,Electronics,2025-01-11 23:01:00,Robotics,Intermediate,Kinematics and Dynamics
+U0071,I0092,quiz,started,,1855,mobile,hard,Electronics,2025-05-31 15:15:59,Python,Basic,Control Flow and Loops
+U0028,I0095,reading,skipped,,0,web,medium,Statistics,2025-10-09 01:09:43,Electronics,Intermediate,Microcontrollers and Programming
+U0178,I0129,course,started,,1130,mobile,hard,Robotics,2025-03-08 23:40:28,Math,Basic,Number Systems and Arithmetic
+U0106,I0014,reading,attempted,1.0,714,web,easy,Python,2025-07-04 14:25:17,Robotics,Intermediate,Kinematics and Dynamics
+U0050,I0019,course,started,,1131,web,hard,Robotics,2025-08-24 02:48:21,AI,Intermediate,Machine Learning Algorithms
+U0104,I0049,quiz,viewed,,1242,mobile,hard,AI,2025-09-07 10:53:19,Electronics,Basic,Basic Circuit Components
+U0120,I0118,assignment,completed,4.0,538,web,hard,Statistics,2025-07-29 11:40:37,AI,Basic,Introduction to AI Concepts
+U0134,I0037,assignment,started,,224,web,easy,Statistics,2025-05-21 04:47:15,AI,Intermediate,Machine Learning Algorithms
+U0193,I0098,reading,viewed,,805,web,medium,AI,2025-03-28 05:17:25,Electronics,Intermediate,Digital Electronics
+U0173,I0141,assignment,started,,543,web,hard,Electronics,2025-03-23 03:23:07,Electronics,Intermediate,Digital Electronics
+U0112,I0017,quiz,viewed,,1365,mobile,medium,Electronics,2025-08-18 06:34:03,Python,Basic,Introduction to Python
+U0185,I0149,video,attempted,1.0,1789,web,medium,Data Science,2025-01-27 06:42:38,AI,Intermediate,Neural Networks Basics
+U0017,I0032,assignment,skipped,,0,web,easy,Statistics,2025-10-31 12:00:20,Math,Intermediate,Linear Algebra
+U0129,I0144,reading,attempted,5.0,1491,web,easy,Statistics,2025-05-07 15:33:52,Electronics,Basic,Basic Circuit Components
+U0137,I0004,assignment,started,,790,mobile,medium,AI,2025-08-19 19:52:33,AI,Basic,Introduction to AI Concepts
+U0024,I0141,course,skipped,,0,mobile,medium,Data Science,2025-09-10 16:58:27,Math,Basic,Number Systems and Arithmetic
+U0124,I0078,reading,attempted,1.0,1975,web,hard,Statistics,2025-12-10 05:26:01,AI,Intermediate,Machine Learning Algorithms
+U0059,I0050,video,completed,4.0,1076,mobile,hard,AI,2025-07-28 17:50:48,Math,Basic,Number Systems and Arithmetic
+U0113,I0121,reading,viewed,,1019,mobile,easy,AI,2025-05-05 12:29:40,Python,Basic,Introduction to Python
+U0191,I0136,video,completed,1.0,1655,web,easy,Statistics,2025-08-17 15:04:52,AI,Basic,Introduction to AI Concepts
+U0069,I0019,quiz,attempted,3.0,616,web,medium,Statistics,2025-11-18 00:45:31,AI,Intermediate,Neural Networks Basics
+U0140,I0058,course,started,,915,mobile,medium,Electronics,2025-10-12 15:06:03,Robotics,Intermediate,Control Systems
+U0038,I0053,video,viewed,,1196,mobile,hard,Robotics,2025-04-12 02:27:11,Electronics,Basic,Basic Circuit Components
+U0077,I0149,course,attempted,5.0,1773,web,hard,Statistics,2025-01-20 06:49:17,Python,Basic,Control Flow and Loops
+U0066,I0059,assignment,started,,1808,web,hard,Electronics,2025-07-30 06:23:00,AI,Intermediate,Machine Learning Algorithms
+U0160,I0012,reading,attempted,1.0,1386,web,easy,Statistics,2025-12-02 13:20:31,Math,Intermediate,Linear Algebra
+U0154,I0027,course,skipped,,0,mobile,hard,Math,2025-06-11 22:09:30,Electronics,Basic,Basic Circuit Components
+U0099,I0068,quiz,completed,3.0,1057,mobile,hard,Data Science,2025-10-27 23:32:52,Robotics,Basic,Introduction to Robotics
+U0052,I0137,quiz,attempted,3.0,1377,web,hard,Math,2025-05-04 15:36:15,Math,Basic,Number Systems and Arithmetic
+U0086,I0068,course,completed,2.0,1188,web,easy,Math,2025-09-03 15:54:40,Statistics,Intermediate,Hypothesis Testing
+U0159,I0097,assignment,attempted,2.0,485,web,hard,Robotics,2025-11-18 21:39:46,Python,Basic,Variables and Data Types
+U0134,I0146,course,started,,285,web,medium,Statistics,2025-08-09 03:55:04,Math,Basic,Algebra Fundamentals
+U0128,I0096,quiz,started,,1711,web,medium,Math,2025-05-22 07:37:54,Robotics,Intermediate,Kinematics and Dynamics
+U0128,I0004,course,viewed,,1268,web,hard,Math,2025-06-26 15:18:04,Robotics,Intermediate,Control Systems
+U0137,I0046,quiz,skipped,,0,web,hard,Math,2025-09-30 06:27:34,AI,Intermediate,Machine Learning Algorithms
+U0107,I0014,course,attempted,2.0,275,mobile,easy,AI,2025-09-05 10:30:34,AI,Intermediate,Machine Learning Algorithms
+U0087,I0025,reading,started,,983,web,hard,Math,2025-08-14 19:47:20,Electronics,Intermediate,Digital Electronics
+U0158,I0042,video,completed,4.0,1267,web,easy,Statistics,2025-06-04 13:14:35,Electronics,Intermediate,Digital Electronics
+U0162,I0093,course,skipped,,0,web,easy,Math,2025-01-11 11:20:40,AI,Basic,Introduction to AI Concepts
+U0014,I0074,reading,completed,4.0,265,web,easy,Robotics,2025-03-04 23:06:59,AI,Basic,Introduction to AI Concepts
+U0151,I0127,assignment,completed,2.0,735,web,medium,Data Science,2025-02-21 01:32:22,Python,Basic,Introduction to Python
+U0176,I0087,video,viewed,,26,mobile,easy,Math,2025-02-17 05:21:46,Python,Basic,Control Flow and Loops
+U0195,I0118,assignment,completed,2.0,887,web,medium,AI,2025-07-25 03:52:53,Math,Intermediate,Linear Algebra
+U0181,I0037,assignment,viewed,,368,mobile,hard,Python,2025-08-21 04:31:21,AI,Intermediate,Neural Networks Basics
+U0146,I0018,video,skipped,,0,mobile,medium,Statistics,2025-05-04 14:18:41,Math,Intermediate,Linear Algebra
+U0119,I0148,video,completed,3.0,328,web,medium,AI,2025-07-09 05:50:17,Electronics,Intermediate,Digital Electronics
+U0102,I0132,course,viewed,,231,web,hard,Electronics,2025-02-16 15:49:34,Statistics,Intermediate,Hypothesis Testing
+U0140,I0085,reading,completed,4.0,1340,web,hard,Robotics,2025-05-28 13:52:44,AI,Basic,Introduction to AI Concepts
+U0037,I0097,assignment,completed,5.0,191,web,easy,Electronics,2025-04-04 12:20:07,AI,Intermediate,Machine Learning Algorithms
+U0137,I0008,reading,viewed,,1777,web,medium,Statistics,2025-11-03 19:51:52,Robotics,Intermediate,Kinematics and Dynamics
+U0147,I0121,reading,attempted,4.0,1073,web,easy,Robotics,2025-04-09 23:47:26,AI,Intermediate,Machine Learning Algorithms
+U0102,I0054,assignment,attempted,1.0,1371,mobile,easy,Statistics,2025-04-02 01:14:56,Math,Basic,Algebra Fundamentals
+U0149,I0009,reading,attempted,3.0,589,web,easy,Robotics,2025-10-06 09:45:15,AI,Intermediate,Neural Networks Basics
+U0004,I0001,course,skipped,,0,web,easy,Robotics,2025-01-08 16:10:43,Math,Intermediate,Linear Algebra
+U0034,I0106,reading,attempted,2.0,384,web,medium,Math,2025-02-01 10:37:09,Python,Basic,Control Flow and Loops
+U0023,I0013,course,attempted,2.0,870,web,medium,Statistics,2025-03-07 01:41:44,Electronics,Intermediate,Digital Electronics
+U0151,I0127,reading,skipped,,0,mobile,easy,Math,2025-06-13 18:14:41,AI,Intermediate,Neural Networks Basics
+U0125,I0021,quiz,started,,930,web,easy,Electronics,2025-08-03 00:19:36,Python,Basic,Introduction to Python
+U0018,I0134,video,viewed,,315,web,easy,Electronics,2025-06-30 15:05:14,Python,Basic,Control Flow and Loops
+U0125,I0116,reading,viewed,,1782,web,easy,Data Science,2025-08-26 20:41:48,Math,Basic,Algebra Fundamentals
+U0088,I0008,course,attempted,4.0,1541,web,easy,Electronics,2025-01-01 06:12:43,Robotics,Intermediate,Kinematics and Dynamics
+U0149,I0008,course,started,,1332,mobile,easy,Python,2025-05-08 05:51:51,Robotics,Intermediate,Control Systems
+U0163,I0026,assignment,started,,630,mobile,medium,Python,2025-07-07 02:35:16,Robotics,Intermediate,Kinematics and Dynamics
+U0036,I0095,course,skipped,,0,mobile,hard,Python,2025-11-09 01:55:20,Statistics,Intermediate,Probability Distributions
+U0021,I0124,reading,started,,1982,mobile,hard,Data Science,2025-10-04 03:52:19,AI,Basic,Introduction to AI Concepts
+U0050,I0137,reading,attempted,1.0,1392,web,hard,Math,2025-11-26 17:20:34,Python,Basic,Variables and Data Types
+U0044,I0089,course,attempted,3.0,1346,mobile,medium,Robotics,2025-12-03 18:08:39,Python,Basic,Variables and Data Types
+U0116,I0042,quiz,started,,1799,mobile,medium,Python,2025-09-16 18:01:37,Math,Basic,Number Systems and Arithmetic
+U0099,I0146,course,started,,929,mobile,hard,AI,2025-03-17 07:16:41,Statistics,Intermediate,Hypothesis Testing
+U0197,I0079,reading,started,,986,mobile,hard,Robotics,2025-09-02 07:05:34,Statistics,Intermediate,Probability Distributions
+U0035,I0124,course,skipped,,0,web,hard,AI,2025-11-27 01:36:21,AI,Intermediate,Neural Networks Basics
+U0009,I0043,video,completed,2.0,1063,web,easy,Python,2025-10-16 07:40:42,Robotics,Basic,Introduction to Robotics
+U0102,I0015,assignment,viewed,,1697,web,easy,Electronics,2025-09-09 20:18:32,Statistics,Intermediate,Hypothesis Testing
+U0144,I0147,reading,viewed,,1332,mobile,easy,AI,2025-11-11 10:01:32,AI,Intermediate,Machine Learning Algorithms
+U0134,I0111,course,skipped,,0,mobile,easy,Data Science,2025-09-15 15:57:24,Math,Basic,Number Systems and Arithmetic
+U0180,I0008,video,started,,625,web,hard,Electronics,2025-07-06 13:45:37,Statistics,Basic,Descriptive Statistics
+U0081,I0093,video,attempted,1.0,1877,web,easy,AI,2025-11-18 01:47:09,Electronics,Basic,Basic Circuit Components
+U0154,I0137,assignment,attempted,1.0,1495,mobile,easy,AI,2025-03-31 11:12:52,Statistics,Intermediate,Hypothesis Testing
+U0101,I0030,reading,completed,5.0,307,mobile,medium,Math,2025-12-09 21:39:58,Robotics,Intermediate,Kinematics and Dynamics
+U0110,I0053,assignment,viewed,,878,web,hard,Statistics,2025-01-29 00:06:04,Math,Basic,Number Systems and Arithmetic
+U0061,I0133,course,viewed,,1504,web,hard,AI,2025-01-18 19:32:32,Robotics,Intermediate,Control Systems
+U0170,I0024,reading,attempted,1.0,776,mobile,hard,Statistics,2025-09-16 08:28:17,Math,Intermediate,Linear Algebra
+U0167,I0059,course,viewed,,712,web,hard,Statistics,2025-01-31 10:55:04,Robotics,Intermediate,Kinematics and Dynamics
+U0034,I0064,reading,started,,1006,web,hard,Data Science,2025-08-25 08:52:31,Statistics,Intermediate,Hypothesis Testing
+U0098,I0013,quiz,attempted,5.0,568,web,medium,Electronics,2025-06-27 08:36:28,Python,Basic,Introduction to Python
+U0056,I0010,video,skipped,,0,web,easy,AI,2025-10-23 20:50:26,Electronics,Intermediate,Digital Electronics
+U0146,I0057,assignment,completed,3.0,1791,web,easy,Python,2025-04-10 18:50:53,Math,Intermediate,Linear Algebra
+U0105,I0018,reading,viewed,,812,mobile,easy,Data Science,2025-03-27 17:15:23,Python,Basic,Variables and Data Types
+U0114,I0099,video,viewed,,1029,mobile,hard,Robotics,2025-02-10 04:30:49,AI,Basic,Introduction to AI Concepts
+U0078,I0033,reading,viewed,,1360,mobile,easy,Math,2025-08-20 22:49:21,Math,Basic,Algebra Fundamentals
+U0004,I0002,quiz,completed,1.0,916,web,easy,Statistics,2025-06-18 18:19:59,Robotics,Intermediate,Control Systems
+U0101,I0059,video,completed,3.0,1889,mobile,hard,Statistics,2025-09-17 23:01:34,Python,Basic,Control Flow and Loops
+U0063,I0078,quiz,attempted,4.0,875,web,medium,Python,2025-12-07 16:00:45,Statistics,Basic,Descriptive Statistics
+U0129,I0052,assignment,completed,5.0,520,mobile,hard,Statistics,2025-04-19 18:37:32,Statistics,Intermediate,Hypothesis Testing
+U0100,I0029,reading,completed,4.0,329,web,hard,Statistics,2025-07-16 12:47:20,Electronics,Intermediate,Microcontrollers and Programming
+U0003,I0110,quiz,viewed,,730,mobile,hard,Data Science,2025-03-09 00:40:19,Electronics,Basic,Basic Circuit Components
+U0054,I0052,assignment,skipped,,0,web,hard,Statistics,2025-04-30 23:08:04,Electronics,Basic,Basic Circuit Components
+U0121,I0131,video,completed,5.0,1654,mobile,hard,Statistics,2025-10-16 01:15:14,Robotics,Intermediate,Kinematics and Dynamics
+U0021,I0105,assignment,attempted,5.0,1643,web,hard,Robotics,2025-01-10 16:52:41,Robotics,Basic,Introduction to Robotics
+U0197,I0028,assignment,skipped,,0,web,hard,Robotics,2025-02-17 09:05:20,Robotics,Basic,Introduction to Robotics
+U0040,I0040,reading,started,,554,web,hard,Math,2025-06-22 12:22:27,Math,Basic,Algebra Fundamentals
+U0034,I0114,quiz,attempted,2.0,1138,web,hard,Math,2025-03-19 12:04:12,Electronics,Basic,Basic Circuit Components
+U0188,I0077,video,attempted,4.0,1188,mobile,medium,Data Science,2025-03-13 21:17:23,Math,Basic,Number Systems and Arithmetic
+U0087,I0039,reading,viewed,,700,mobile,hard,AI,2025-07-20 14:50:12,Statistics,Intermediate,Probability Distributions
+U0082,I0149,video,viewed,,323,mobile,hard,Electronics,2025-08-05 07:18:15,Python,Basic,Variables and Data Types
+U0148,I0060,reading,skipped,,0,mobile,medium,AI,2025-08-31 18:57:57,Robotics,Basic,Introduction to Robotics
+U0077,I0131,quiz,skipped,,0,mobile,medium,AI,2025-12-06 14:25:58,Python,Basic,Control Flow and Loops
+U0146,I0011,reading,started,,1174,web,medium,Robotics,2025-04-08 00:51:07,Python,Basic,Introduction to Python
+U0024,I0117,video,started,,1500,mobile,medium,Electronics,2025-07-15 12:00:29,Robotics,Intermediate,Control Systems
+U0019,I0131,course,attempted,4.0,918,mobile,medium,Electronics,2025-09-11 14:20:07,Electronics,Intermediate,Microcontrollers and Programming
+U0005,I0141,course,completed,4.0,438,mobile,easy,Robotics,2025-05-30 09:50:43,Statistics,Basic,Descriptive Statistics
+U0121,I0121,assignment,viewed,,217,mobile,hard,Robotics,2025-11-06 04:49:38,Math,Intermediate,Linear Algebra
+U0121,I0043,assignment,started,,974,mobile,hard,Data Science,2025-10-12 04:03:06,Statistics,Intermediate,Hypothesis Testing
+U0039,I0112,video,viewed,,1623,mobile,medium,Robotics,2025-02-26 02:45:29,Python,Basic,Variables and Data Types
+U0182,I0035,reading,started,,1459,web,medium,Statistics,2025-07-09 11:47:12,Robotics,Basic,Introduction to Robotics
+U0137,I0052,reading,started,,495,mobile,easy,Robotics,2025-03-04 05:57:05,Python,Basic,Introduction to Python
+U0131,I0006,quiz,started,,41,mobile,easy,Statistics,2025-01-07 11:07:39,Electronics,Basic,Basic Circuit Components
+U0197,I0061,video,viewed,,1775,web,easy,Data Science,2025-05-29 19:10:51,Statistics,Intermediate,Probability Distributions
+U0041,I0068,quiz,viewed,,559,web,medium,Electronics,2025-11-05 10:02:36,Robotics,Intermediate,Kinematics and Dynamics
+U0117,I0120,course,viewed,,1800,mobile,hard,Electronics,2025-02-22 14:47:08,Statistics,Basic,Descriptive Statistics
+U0009,I0091,reading,started,,1611,web,hard,Data Science,2025-09-08 14:32:55,Robotics,Intermediate,Control Systems
+U0100,I0021,reading,skipped,,0,mobile,medium,Python,2025-07-12 14:40:25,AI,Intermediate,Machine Learning Algorithms
+U0121,I0030,quiz,viewed,,1651,web,medium,Robotics,2025-10-09 20:23:56,Math,Basic,Number Systems and Arithmetic
+U0184,I0099,course,started,,1809,web,easy,Data Science,2025-06-27 17:42:54,Python,Basic,Introduction to Python
+U0118,I0139,course,skipped,,0,web,hard,Python,2025-04-30 09:35:46,Robotics,Intermediate,Control Systems
+U0163,I0010,reading,attempted,4.0,964,web,medium,Robotics,2025-01-09 04:41:09,Statistics,Intermediate,Probability Distributions
+U0017,I0035,video,attempted,2.0,922,web,medium,Math,2025-08-21 19:12:14,Math,Basic,Algebra Fundamentals
+U0090,I0075,quiz,skipped,,0,web,medium,Robotics,2025-06-18 11:03:09,Math,Intermediate,Linear Algebra
+U0170,I0096,quiz,completed,1.0,209,web,medium,Electronics,2025-03-11 09:33:06,Statistics,Intermediate,Hypothesis Testing
+U0003,I0007,video,started,,1418,mobile,easy,AI,2025-04-14 13:48:24,Electronics,Basic,Basic Circuit Components
+U0147,I0117,quiz,started,,600,web,hard,Data Science,2025-05-19 00:46:20,Robotics,Basic,Introduction to Robotics
+U0143,I0059,reading,started,,660,web,easy,Statistics,2025-06-21 10:10:14,Statistics,Intermediate,Hypothesis Testing
+U0116,I0110,quiz,viewed,,186,web,hard,Robotics,2025-11-30 17:06:08,Python,Basic,Control Flow and Loops
+U0040,I0026,reading,started,,490,mobile,hard,Electronics,2025-06-10 21:51:06,Statistics,Basic,Descriptive Statistics
+U0066,I0046,assignment,completed,1.0,438,mobile,medium,Robotics,2025-12-02 06:16:45,Math,Basic,Number Systems and Arithmetic
+U0012,I0075,reading,skipped,,0,mobile,easy,Data Science,2025-05-08 13:15:59,Robotics,Basic,Introduction to Robotics
+U0128,I0082,video,viewed,,1153,web,easy,Robotics,2025-03-21 13:18:01,Math,Basic,Number Systems and Arithmetic
+U0002,I0026,video,completed,5.0,524,mobile,hard,Math,2025-11-05 05:27:44,Python,Basic,Introduction to Python
+U0019,I0022,quiz,viewed,,670,web,easy,Math,2025-10-27 17:32:28,Electronics,Intermediate,Digital Electronics
+U0179,I0011,course,started,,575,mobile,hard,Math,2025-02-20 02:42:41,Electronics,Basic,Basic Circuit Components
+U0021,I0003,course,completed,2.0,357,mobile,hard,Data Science,2025-05-27 09:12:53,AI,Basic,Introduction to AI Concepts
+U0128,I0089,reading,started,,907,mobile,hard,Statistics,2025-05-13 10:12:07,Python,Basic,Variables and Data Types
+U0062,I0101,quiz,attempted,4.0,591,mobile,easy,Robotics,2025-03-13 06:30:56,AI,Intermediate,Machine Learning Algorithms
+U0020,I0087,reading,attempted,2.0,1302,web,medium,Data Science,2025-06-28 22:51:26,Electronics,Intermediate,Digital Electronics
+U0131,I0108,assignment,viewed,,660,web,medium,Robotics,2025-11-11 09:30:19,Statistics,Basic,Descriptive Statistics
+U0088,I0060,course,completed,3.0,1753,mobile,easy,Data Science,2025-07-12 18:29:18,Math,Basic,Number Systems and Arithmetic
+U0082,I0052,reading,viewed,,1729,mobile,hard,Math,2025-06-24 11:27:38,Python,Basic,Control Flow and Loops
+U0178,I0128,course,skipped,,0,web,easy,Electronics,2025-09-16 07:01:09,Statistics,Intermediate,Probability Distributions
+U0076,I0129,quiz,attempted,5.0,1274,web,medium,Data Science,2025-04-06 18:09:44,AI,Intermediate,Machine Learning Algorithms
+U0154,I0005,quiz,attempted,1.0,967,web,medium,AI,2025-10-04 19:59:51,Robotics,Intermediate,Control Systems
+U0082,I0124,assignment,started,,813,web,hard,Data Science,2025-06-12 23:05:32,Statistics,Intermediate,Probability Distributions
+U0069,I0030,video,viewed,,1950,web,hard,Python,2025-02-19 03:41:25,Statistics,Intermediate,Probability Distributions
+U0021,I0014,video,completed,3.0,571,web,hard,Math,2025-03-25 16:34:23,Electronics,Intermediate,Digital Electronics
+U0137,I0016,assignment,attempted,4.0,365,web,medium,Python,2025-11-05 05:15:52,Python,Basic,Introduction to Python
+U0009,I0124,course,started,,765,web,easy,Math,2025-02-27 12:21:50,Python,Basic,Introduction to Python
+U0033,I0049,video,skipped,,0,mobile,hard,AI,2025-04-24 04:37:46,Robotics,Basic,Introduction to Robotics
+U0088,I0098,video,completed,1.0,74,mobile,hard,Python,2025-05-14 10:35:21,Math,Basic,Algebra Fundamentals
+U0106,I0136,assignment,viewed,,575,mobile,easy,Python,2025-04-21 03:47:49,Robotics,Basic,Introduction to Robotics
+U0184,I0022,assignment,started,,1449,mobile,medium,Robotics,2025-08-23 20:24:19,Electronics,Basic,Basic Circuit Components
+U0056,I0060,course,attempted,4.0,400,mobile,hard,AI,2025-01-22 04:25:51,Math,Intermediate,Linear Algebra
+U0003,I0092,reading,skipped,,0,web,easy,Python,2025-05-28 04:31:22,Electronics,Intermediate,Digital Electronics
+U0144,I0129,course,viewed,,412,web,medium,Electronics,2025-08-26 10:59:45,Statistics,Intermediate,Probability Distributions
+U0166,I0110,reading,started,,1549,web,hard,AI,2025-06-18 14:30:15,Electronics,Intermediate,Digital Electronics
+U0071,I0103,course,started,,1491,web,easy,Python,2025-02-25 06:51:54,Statistics,Intermediate,Hypothesis Testing
+U0173,I0069,course,skipped,,0,mobile,medium,Math,2025-08-01 22:33:56,AI,Basic,Introduction to AI Concepts
+U0020,I0088,assignment,skipped,,0,mobile,hard,Math,2025-11-18 07:44:53,Robotics,Intermediate,Kinematics and Dynamics
+U0014,I0132,video,attempted,4.0,1867,mobile,medium,Statistics,2025-02-20 07:06:57,Robotics,Intermediate,Kinematics and Dynamics
+U0088,I0087,reading,started,,1725,mobile,medium,Python,2025-02-11 11:29:43,AI,Intermediate,Neural Networks Basics
+U0112,I0143,quiz,completed,4.0,825,mobile,hard,Data Science,2025-01-17 06:25:11,AI,Intermediate,Neural Networks Basics
+U0090,I0011,course,attempted,1.0,1673,web,hard,Electronics,2025-08-12 03:00:01,Electronics,Intermediate,Microcontrollers and Programming
+U0066,I0104,assignment,skipped,,0,mobile,easy,AI,2025-09-23 08:09:20,Electronics,Intermediate,Digital Electronics
+U0192,I0097,assignment,attempted,2.0,819,mobile,hard,AI,2025-04-23 19:38:12,Robotics,Intermediate,Control Systems
+U0166,I0056,assignment,started,,1902,web,medium,Electronics,2025-02-21 07:51:18,Robotics,Intermediate,Control Systems
+U0052,I0074,assignment,attempted,4.0,1961,mobile,hard,Electronics,2025-04-20 00:19:14,Python,Basic,Introduction to Python
+U0112,I0149,assignment,viewed,,896,mobile,easy,Data Science,2025-11-22 22:34:22,Robotics,Intermediate,Kinematics and Dynamics
+U0094,I0069,reading,started,,1016,mobile,medium,AI,2025-04-28 18:41:17,Statistics,Intermediate,Hypothesis Testing
+U0016,I0090,video,started,,550,mobile,easy,Statistics,2025-07-29 11:37:20,Robotics,Basic,Introduction to Robotics
+U0200,I0119,course,attempted,2.0,672,mobile,easy,Electronics,2025-10-10 01:10:14,Python,Basic,Control Flow and Loops

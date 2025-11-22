@@ -1,0 +1,39 @@
+Domain,Level,Topic
+Python,Basic,Introduction to Python
+Python,Basic,Variables and Data Types
+Python,Basic,Control Flow and Loops
+Python,Intermediate,Functions and Modules
+Python,Intermediate,Object-Oriented Programming
+Python,Advanced,Decorators and Generators
+Python,Advanced,Concurrency and Asyncio
+Math,Basic,Number Systems and Arithmetic
+Math,Basic,Algebra Fundamentals
+Math,Intermediate,Linear Algebra
+Math,Intermediate,Calculus Basics
+Math,Advanced,Probability and Statistics
+Math,Advanced,Differential Equations
+AI,Basic,Introduction to AI Concepts
+AI,Intermediate,Machine Learning Algorithms
+AI,Intermediate,Neural Networks Basics
+AI,Advanced,Deep Learning and CNNs
+AI,Advanced,Reinforcement Learning
+Robotics,Basic,Introduction to Robotics
+Robotics,Intermediate,Kinematics and Dynamics
+Robotics,Intermediate,Control Systems
+Robotics,Advanced,Robot Perception and Vision
+Robotics,Advanced,Path Planning Algorithms
+Data Science,Basic,Data Exploration and Cleaning
+Data Science,Intermediate,Data Visualization Techniques
+Data Science,Intermediate,Statistical Inference
+Data Science,Advanced,Big Data Technologies
+Data Science,Advanced,Machine Learning for Data Science
+Electronics,Basic,Basic Circuit Components
+Electronics,Intermediate,Digital Electronics
+Electronics,Intermediate,Microcontrollers and Programming
+Electronics,Advanced,Embedded Systems Design
+Electronics,Advanced,Signal Processing
+Statistics,Basic,Descriptive Statistics
+Statistics,Intermediate,Probability Distributions
+Statistics,Intermediate,Hypothesis Testing
+Statistics,Advanced,Regression Analysis
+Statistics,Advanced,Multivariate Statistics
